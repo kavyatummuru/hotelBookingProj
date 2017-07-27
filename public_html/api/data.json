@@ -1,0 +1,3626 @@
+[
+  {
+    "hotelId": "57672",
+    "name": "BEST WESTERN PLUS Atlanta Airport-East",
+    "brandId": "1",
+    "starRating": 2.5,
+    "location": {
+      "address": {
+        "addressLine1": "301 North Central Avenue",
+        "cityName": "Hapeville",
+        "provinceCode": "GA",
+        "countryName": "United States",
+        "zip": "30354",
+        "phone": "404-763-8777",
+        "isoCountryCode": "US"
+      },
+      "longitude": -84.39740852,
+      "latitude": 33.65336537,
+      "timeZone": "America/New_York",
+      "neighborhoodId": "5556",
+      "neighborhoodName": "Hartsfield Airport (ATL) North",
+      "cityId": 3000096602,
+      "zoneId": "51525"
+    },
+    "thumbnailUrl": "http://mobileimg.priceline.com/htlimg/57/57672/thumbnail-150-square.jpg",
+    "hotelFeatures": {
+      "hotelAmenityCodes": [
+        "SPOOLOUT",
+        "FPRKING",
+        "BUSCNTR",
+        "RESTRNT",
+        "FINTRNT",
+        "FBRKFST",
+        "SPOOL",
+        "FINTRRM",
+        "FITSPA",
+        "FINTRPUB",
+        "NSMKFAC",
+        "HANDFAC"
+      ]
+    },
+    "overallGuestRating": 7.6,
+    "totalReviewCount": 167,
+    "guestReviewGdsName": "PCLN",
+    "proximity": 1.6881450267474136,
+    "chainCode": "BW",
+    "ratesSummary": {
+      "minPrice": "88.00",
+      "minCurrencyCode": "USD",
+      "minCurrencyCodeSymbol": "$",
+      "minStrikePrice": "102.34",
+      "pclnId": "3A14E869FF950635DFBDF84FC3212F9F7808948AF6CD319E",
+      "freeCancelableRateAvail": true,
+      "payWhenYouStayAvailable": false,
+      "minRatePromos": [
+        {
+          "type": "DISCOUNT",
+          "title": "On Sale Now -> Save 14% on this stay",
+          "desc": "Stay and Save",
+          "terms": "Negotiated Specials may be limited to certain dates and subject to availability.",
+          "valueAddDesc": false,
+          "discountType": "PERCENT",
+          "discountPercentage": 14.01211647,
+          "displayStrikethroughPrice": "102.34",
+          "displayStrikethroughPriceCurrency": "USD",
+          "nativeStrikethroughPrice": "102.34",
+          "nativeStrikethroughPriceCurrency": "USD",
+          "showDiscount": true,
+          "freeNightCumulative": false,
+          "numNightsPerFreeNight": 0,
+          "numFreeNightsGiven": 0
+        }
+      ],
+      "availablePromos": [
+        {
+          "type": "DISCOUNT",
+          "title": "On Sale Now -> Save 14% on this stay",
+          "desc": "Stay and Save",
+          "terms": "Negotiated Specials may be limited to certain dates and subject to availability.",
+          "valueAddDesc": false,
+          "discountType": "PERCENT",
+          "discountPercentage": 14.01211647,
+          "displayStrikethroughPrice": "102.34",
+          "displayStrikethroughPriceCurrency": "USD",
+          "nativeStrikethroughPrice": "102.34",
+          "nativeStrikethroughPriceCurrency": "USD",
+          "showDiscount": true,
+          "freeNightCumulative": false,
+          "numNightsPerFreeNight": 0,
+          "numFreeNightsGiven": 0
+        }
+      ],
+      "ccNotRequiredAvailable": false
+    },
+    "allInclusiveRateProperty": false,
+    "recentlyViewed": false,
+    "dealUnwrapable": false
+  },
+  {
+    "hotelId": "1491704",
+    "name": "Hyatt Place Atlanta Airport North",
+    "brandId": "158305",
+    "starRating": 3,
+    "location": {
+      "address": {
+        "addressLine1": "3415 Norman Berry Drive",
+        "cityName": "East Point",
+        "provinceCode": "GA",
+        "countryName": "United States",
+        "zip": "30344",
+        "phone": "404-768-8484",
+        "isoCountryCode": "US"
+      },
+      "longitude": -84.428925,
+      "latitude": 33.661983,
+      "timeZone": "America/New_York",
+      "neighborhoodId": "5556",
+      "neighborhoodName": "Hartsfield Airport (ATL) North",
+      "cityId": 3000097481,
+      "zoneId": "51525"
+    },
+    "thumbnailUrl": "http://mobileimg.priceline.com/htlimg/1491/1491704/thumbnail-150-square.jpg",
+    "hotelFeatures": {
+      "hotelAmenityCodes": [
+        "SPOOLOUT",
+        "FPRKING",
+        "AIRSHUTTL",
+        "FBRKFST",
+        "FITSPA",
+        "FINTRPUB",
+        "NSMKFAC",
+        "HANDFAC",
+        "PETALLOW",
+        "BUSCNTR",
+        "RESTRNT",
+        "FINTRNT",
+        "SPOOL",
+        "FINTRRM"
+      ]
+    },
+    "overallGuestRating": 8.6,
+    "totalReviewCount": 451,
+    "guestReviewGdsName": "PCLN",
+    "proximity": 1.520457428771769,
+    "chainCode": "HY",
+    "ratesSummary": {
+      "minPrice": "93.15",
+      "minCurrencyCode": "USD",
+      "minCurrencyCodeSymbol": "$",
+      "minStrikePrice": "103.10",
+      "pclnId": "59350852BB8ED6C9D3EE344FE92C67621E2A5BA97172CBCF408E232E179DAC6F",
+      "freeCancelableRateAvail": true,
+      "payWhenYouStayAvailable": true,
+      "minRatePromos": [
+        {
+          "type": "DISCOUNT",
+          "title": "Special Discount 10% off",
+          "desc": "Advance Purchase",
+          "terms": "Negotiated Specials may be limited to certain dates and subject to availability.",
+          "valueAddDesc": false,
+          "discountType": "PERCENT",
+          "discountPercentage": 9.65082444,
+          "displayStrikethroughPrice": "103.10",
+          "displayStrikethroughPriceCurrency": "USD",
+          "nativeStrikethroughPrice": "103.10",
+          "nativeStrikethroughPriceCurrency": "USD",
+          "showDiscount": true,
+          "freeNightCumulative": false,
+          "numNightsPerFreeNight": 0,
+          "numFreeNightsGiven": 0
+        }
+      ],
+      "availablePromos": [
+        {
+          "type": "DISCOUNT",
+          "title": "Special Discount 10% off",
+          "desc": "Advance Purchase",
+          "terms": "Negotiated Specials may be limited to certain dates and subject to availability.",
+          "valueAddDesc": false,
+          "discountType": "PERCENT",
+          "discountPercentage": 9.65082444,
+          "displayStrikethroughPrice": "103.10",
+          "displayStrikethroughPriceCurrency": "USD",
+          "nativeStrikethroughPrice": "103.10",
+          "nativeStrikethroughPriceCurrency": "USD",
+          "showDiscount": true,
+          "freeNightCumulative": false,
+          "numNightsPerFreeNight": 0,
+          "numFreeNightsGiven": 0
+        },
+        {
+          "type": "DISCOUNT",
+          "title": "Smart Deal",
+          "terms": "Negotiated Specials may be limited to certain dates and subject to availability.",
+          "valueAddDesc": false,
+          "discountType": "PERCENT",
+          "discountPercentage": 0,
+          "showDiscount": false,
+          "dealType": "SMART",
+          "freeNightCumulative": false,
+          "numNightsPerFreeNight": 0,
+          "numFreeNightsGiven": 0
+        }
+      ],
+      "ccNotRequiredAvailable": false
+    },
+    "allInclusiveRateProperty": false,
+    "recentlyViewed": false,
+    "dealUnwrapable": false
+  },
+  {
+    "hotelId": "21541506",
+    "name": "Hotel Indigo Atlanta Airport College Park",
+    "brandId": "92403",
+    "starRating": 3,
+    "location": {
+      "address": {
+        "addressLine1": "1776 Harvard Avenue",
+        "cityName": "College Park",
+        "provinceCode": "GA",
+        "countryName": "United States",
+        "zip": "30337",
+        "phone": "404-767-8881",
+        "isoCountryCode": "US"
+      },
+      "longitude": -84.44714673,
+      "latitude": 33.65336537,
+      "timeZone": "America/New_York",
+      "neighborhoodId": "5556",
+      "neighborhoodName": "Hartsfield Airport (ATL) North",
+      "cityId": 3000098198,
+      "zoneId": "51525"
+    },
+    "thumbnailUrl": "http://mobileimg.priceline.com/htlimg/21541/21541506/thumbnail-150-square.jpg",
+    "hotelFeatures": {
+      "hotelAmenityCodes": [
+        "PETALLOW",
+        "BUSCNTR",
+        "RESTRNT",
+        "FINTRNT",
+        "FINTRRM",
+        "FITSPA",
+        "FINTRPUB",
+        "NSMKFAC",
+        "HANDFAC"
+      ]
+    },
+    "overallGuestRating": 8.6,
+    "totalReviewCount": 70,
+    "guestReviewGdsName": "PCLN",
+    "proximity": 1.6696506658123145,
+    "chainCode": "IN",
+    "ratesSummary": {
+      "minPrice": "107.33",
+      "minCurrencyCode": "USD",
+      "minCurrencyCodeSymbol": "$",
+      "minStrikePrice": "118.33",
+      "pclnId": "3BA5E8CE0EA5BCFDF248C164D6E2FDAD1A8B2C43D91518353DF01B5FDBAAF633",
+      "freeCancelableRateAvail": true,
+      "payWhenYouStayAvailable": true,
+      "minRatePromos": [
+        {
+          "type": "DISCOUNT",
+          "title": "Special Discount 9% off",
+          "desc": "Advance Purchase",
+          "terms": "Negotiated Specials may be limited to certain dates and subject to availability.",
+          "valueAddDesc": false,
+          "discountType": "PERCENT",
+          "discountPercentage": 9.29603651,
+          "displayStrikethroughPrice": "118.33",
+          "displayStrikethroughPriceCurrency": "USD",
+          "nativeStrikethroughPrice": "118.33",
+          "nativeStrikethroughPriceCurrency": "USD",
+          "showDiscount": true,
+          "freeNightCumulative": false,
+          "numNightsPerFreeNight": 0,
+          "numFreeNightsGiven": 0
+        }
+      ],
+      "availablePromos": [
+        {
+          "type": "DISCOUNT",
+          "title": "Smart Deal",
+          "terms": "Negotiated Specials may be limited to certain dates and subject to availability.",
+          "valueAddDesc": false,
+          "discountType": "PERCENT",
+          "discountPercentage": 0,
+          "showDiscount": false,
+          "dealType": "SMART",
+          "freeNightCumulative": false,
+          "numNightsPerFreeNight": 0,
+          "numFreeNightsGiven": 0
+        },
+        {
+          "type": "DISCOUNT",
+          "title": "Special Discount 9% off",
+          "desc": "Advance Purchase",
+          "terms": "Negotiated Specials may be limited to certain dates and subject to availability.",
+          "valueAddDesc": false,
+          "discountType": "PERCENT",
+          "discountPercentage": 9.29603651,
+          "displayStrikethroughPrice": "118.33",
+          "displayStrikethroughPriceCurrency": "USD",
+          "nativeStrikethroughPrice": "118.33",
+          "nativeStrikethroughPriceCurrency": "USD",
+          "showDiscount": true,
+          "freeNightCumulative": false,
+          "numNightsPerFreeNight": 0,
+          "numFreeNightsGiven": 0
+        }
+      ],
+      "ccNotRequiredAvailable": false
+    },
+    "allInclusiveRateProperty": false,
+    "recentlyViewed": false,
+    "dealUnwrapable": false
+  },
+  {
+    "hotelId": "1837603",
+    "name": "Hampton Inn And Suites Atlanta Airport",
+    "brandId": "9",
+    "hotelVirtualTourURL": "http://www.vfmii.com/exc/aspquery?command=invoke&ipid=1071706&ids=145062",
+    "starRating": 2.5,
+    "location": {
+      "address": {
+        "addressLine1": "3450 Bobby Brown Parkway",
+        "cityName": "East Point",
+        "provinceCode": "GA",
+        "countryName": "United States",
+        "zip": "30344",
+        "phone": "404-767-9300",
+        "isoCountryCode": "US"
+      },
+      "longitude": -84.429047,
+      "latitude": 33.661339,
+      "timeZone": "America/New_York",
+      "neighborhoodId": "5556",
+      "neighborhoodName": "Hartsfield Airport (ATL) North",
+      "cityId": 3000097481,
+      "zoneId": "51525"
+    },
+    "thumbnailUrl": "http://mobileimg.priceline.com/htlimg/1837/1837603/thumbnail-150-square.jpg",
+    "hotelFeatures": {
+      "hotelAmenityCodes": [
+        "SPOOLOUT",
+        "FPRKING",
+        "BUSCNTR",
+        "AIRSHUTTL",
+        "FINTRNT",
+        "FBRKFST",
+        "SPOOL",
+        "FINTRRM",
+        "FITSPA",
+        "NSMKFAC"
+      ]
+    },
+    "overallGuestRating": 8.5,
+    "totalReviewCount": 30,
+    "guestReviewGdsName": "PCLN",
+    "proximity": 1.4791300929683273,
+    "chainCode": "HX",
+    "ratesSummary": {
+      "minPrice": "112.44",
+      "minCurrencyCode": "USD",
+      "minCurrencyCodeSymbol": "$",
+      "minStrikePrice": "125.67",
+      "pclnId": "8051561D76CE2CD37CA050CC24716E8B58CD46EDB886A164F3609C16D37A53EC",
+      "freeCancelableRateAvail": true,
+      "payWhenYouStayAvailable": true,
+      "minRatePromos": [
+        {
+          "type": "DISCOUNT",
+          "title": "Special Discount 11% off",
+          "desc": "Advance Purchase",
+          "terms": "Negotiated Specials may be limited to certain dates and subject to availability.",
+          "valueAddDesc": false,
+          "discountType": "PERCENT",
+          "discountPercentage": 10.52757221,
+          "displayStrikethroughPrice": "125.67",
+          "displayStrikethroughPriceCurrency": "USD",
+          "nativeStrikethroughPrice": "125.67",
+          "nativeStrikethroughPriceCurrency": "USD",
+          "showDiscount": true,
+          "freeNightCumulative": false,
+          "numNightsPerFreeNight": 0,
+          "numFreeNightsGiven": 0
+        }
+      ],
+      "availablePromos": [
+        {
+          "type": "DISCOUNT",
+          "title": "Smart Deal",
+          "terms": "Negotiated Specials may be limited to certain dates and subject to availability.",
+          "valueAddDesc": false,
+          "discountType": "PERCENT",
+          "discountPercentage": 0,
+          "showDiscount": false,
+          "dealType": "SMART",
+          "freeNightCumulative": false,
+          "numNightsPerFreeNight": 0,
+          "numFreeNightsGiven": 0
+        },
+        {
+          "type": "DISCOUNT",
+          "title": "Special Discount 11% off",
+          "desc": "Advance Purchase",
+          "terms": "Negotiated Specials may be limited to certain dates and subject to availability.",
+          "valueAddDesc": false,
+          "discountType": "PERCENT",
+          "discountPercentage": 10.52757221,
+          "displayStrikethroughPrice": "125.67",
+          "displayStrikethroughPriceCurrency": "USD",
+          "nativeStrikethroughPrice": "125.67",
+          "nativeStrikethroughPriceCurrency": "USD",
+          "showDiscount": true,
+          "freeNightCumulative": false,
+          "numNightsPerFreeNight": 0,
+          "numFreeNightsGiven": 0
+        }
+      ],
+      "ccNotRequiredAvailable": false
+    },
+    "allInclusiveRateProperty": false,
+    "recentlyViewed": false,
+    "dealUnwrapable": false
+  },
+  {
+    "hotelId": "53464",
+    "name": "Holiday Inn & Suites Atlanta Airport North",
+    "brandId": "11",
+    "hotelVirtualTourURL": "http://www.vfmii.com/exc/aspquery?command=invoke&ipid=1258404&ids=145062",
+    "starRating": 3,
+    "location": {
+      "address": {
+        "addressLine1": "1380 Virginia Avenue",
+        "cityName": "Atlanta",
+        "provinceCode": "GA",
+        "countryName": "United States",
+        "zip": "30344",
+        "phone": "404-305-9990",
+        "isoCountryCode": "US"
+      },
+      "longitude": -84.43515015,
+      "latitude": 33.65795135,
+      "timeZone": "America/New_York",
+      "neighborhoodId": "5556",
+      "neighborhoodName": "Hartsfield Airport (ATL) North",
+      "cityId": 3000003496,
+      "zoneId": "51525"
+    },
+    "thumbnailUrl": "http://mobileimg.priceline.com/htlimg/53/53464/thumbnail-150-square.jpg",
+    "hotelFeatures": {
+      "hotelAmenityCodes": [
+        "PETALLOW",
+        "SPOOLOUT",
+        "BUSCNTR",
+        "RESTRNT",
+        "FINTRNT",
+        "SPOOL",
+        "FINTRRM",
+        "FITSPA",
+        "FINTRPUB",
+        "NSMKFAC",
+        "HANDFAC"
+      ]
+    },
+    "overallGuestRating": 8,
+    "totalReviewCount": 301,
+    "guestReviewGdsName": "PCLN",
+    "proximity": 1.4007850415679362,
+    "chainCode": "HI",
+    "ratesSummary": {
+      "minPrice": "110.33",
+      "minCurrencyCode": "USD",
+      "minCurrencyCodeSymbol": "$",
+      "minStrikePrice": "122.33",
+      "pclnId": "22199025555387F32DE7FABEE69718FE025C9CF08ECBCCC2",
+      "freeCancelableRateAvail": true,
+      "payWhenYouStayAvailable": true,
+      "minRatePromos": [
+        {
+          "type": "DISCOUNT",
+          "title": "Special Discount 10% off",
+          "desc": "Advance Purchase",
+          "terms": "Negotiated Specials may be limited to certain dates and subject to availability.",
+          "valueAddDesc": false,
+          "discountType": "PERCENT",
+          "discountPercentage": 9.80953159,
+          "displayStrikethroughPrice": "122.33",
+          "displayStrikethroughPriceCurrency": "USD",
+          "nativeStrikethroughPrice": "122.33",
+          "nativeStrikethroughPriceCurrency": "USD",
+          "showDiscount": true,
+          "freeNightCumulative": false,
+          "numNightsPerFreeNight": 0,
+          "numFreeNightsGiven": 0
+        }
+      ],
+      "availablePromos": [
+        {
+          "type": "DISCOUNT",
+          "title": "Smart Deal",
+          "terms": "Negotiated Specials may be limited to certain dates and subject to availability.",
+          "valueAddDesc": false,
+          "discountType": "PERCENT",
+          "discountPercentage": 0,
+          "showDiscount": false,
+          "dealType": "SMART",
+          "freeNightCumulative": false,
+          "numNightsPerFreeNight": 0,
+          "numFreeNightsGiven": 0
+        },
+        {
+          "type": "DISCOUNT",
+          "title": "Special Discount 10% off",
+          "desc": "Advance Purchase",
+          "terms": "Negotiated Specials may be limited to certain dates and subject to availability.",
+          "valueAddDesc": false,
+          "discountType": "PERCENT",
+          "discountPercentage": 9.80953159,
+          "displayStrikethroughPrice": "122.33",
+          "displayStrikethroughPriceCurrency": "USD",
+          "nativeStrikethroughPrice": "122.33",
+          "nativeStrikethroughPriceCurrency": "USD",
+          "showDiscount": true,
+          "freeNightCumulative": false,
+          "numNightsPerFreeNight": 0,
+          "numFreeNightsGiven": 0
+        }
+      ],
+      "ccNotRequiredAvailable": false
+    },
+    "allInclusiveRateProperty": false,
+    "recentlyViewed": false,
+    "dealUnwrapable": false
+  },
+  {
+    "hotelId": "52701",
+    "name": "Doubletree Hotel Atlanta Airport",
+    "brandId": "6",
+    "starRating": 3,
+    "location": {
+      "address": {
+        "addressLine1": "3400 Norman Berry Dr",
+        "cityName": "Atlanta",
+        "provinceCode": "GA",
+        "countryName": "United States",
+        "zip": "30344",
+        "phone": "404-763-1600",
+        "isoCountryCode": "US"
+      },
+      "longitude": -84.42699432,
+      "latitude": 33.6636467,
+      "timeZone": "America/New_York",
+      "neighborhoodId": "5556",
+      "neighborhoodName": "Hartsfield Airport (ATL) North",
+      "cityId": 3000003496,
+      "zoneId": "51525"
+    },
+    "thumbnailUrl": "http://mobileimg.priceline.com/htlimg/52/52701/thumbnail-150-square.jpg",
+    "hotelFeatures": {
+      "hotelAmenityCodes": [
+        "SPOOLOUT",
+        "BUSCNTR",
+        "AIRSHUTTL",
+        "FINTRNT",
+        "SPOOL",
+        "FINTRRM",
+        "FITSPA",
+        "NSMKFAC"
+      ]
+    },
+    "overallGuestRating": 7.6,
+    "totalReviewCount": 308,
+    "guestReviewGdsName": "PCLN",
+    "proximity": 1.6105268408853841,
+    "chainCode": "DT",
+    "ratesSummary": {
+      "minPrice": "99.00",
+      "minCurrencyCode": "USD",
+      "minCurrencyCodeSymbol": "$",
+      "pclnId": "AA3B311CF80DCA75DFBDF84FC3212F9F2496A64DA58E667C",
+      "freeCancelableRateAvail": true,
+      "payWhenYouStayAvailable": false,
+      "availablePromos": [
+        {
+          "type": "DISCOUNT",
+          "title": "Smart Deal",
+          "terms": "Negotiated Specials may be limited to certain dates and subject to availability.",
+          "valueAddDesc": false,
+          "discountType": "PERCENT",
+          "discountPercentage": 0,
+          "showDiscount": false,
+          "dealType": "SMART",
+          "freeNightCumulative": false,
+          "numNightsPerFreeNight": 0,
+          "numFreeNightsGiven": 0
+        }
+      ],
+      "ccNotRequiredAvailable": false
+    },
+    "allInclusiveRateProperty": false,
+    "recentlyViewed": false,
+    "dealUnwrapable": false
+  },
+  {
+    "hotelId": "1794403",
+    "name": "Fairfield Inn & Suites Atlanta Airport North",
+    "brandId": "8",
+    "starRating": 2.5,
+    "location": {
+      "address": {
+        "addressLine1": "1255 Walker Avenue",
+        "cityName": "East Point",
+        "provinceCode": "GA",
+        "countryName": "United States",
+        "zip": "30344",
+        "phone": "404-767-5374",
+        "isoCountryCode": "US"
+      },
+      "longitude": -84.43024144,
+      "latitude": 33.66302267,
+      "timeZone": "America/New_York",
+      "neighborhoodId": "5556",
+      "neighborhoodName": "Hartsfield Airport (ATL) North",
+      "cityId": 3000097481,
+      "zoneId": "51525"
+    },
+    "thumbnailUrl": "http://mobileimg.priceline.com/htlimg/1794/1794403/thumbnail-150-square.jpg",
+    "hotelFeatures": {
+      "hotelAmenityCodes": [
+        "SPOOLOUT",
+        "FPRKING",
+        "BUSCNTR",
+        "AIRSHUTTL",
+        "FINTRNT",
+        "FBRKFST",
+        "SPOOL",
+        "FINTRRM",
+        "FITSPA",
+        "FINTRPUB",
+        "NSMKFAC",
+        "HANDFAC"
+      ]
+    },
+    "overallGuestRating": 7.5,
+    "totalReviewCount": 21,
+    "guestReviewGdsName": "PCLN",
+    "proximity": 1.6095822092805172,
+    "chainCode": "FN",
+    "ratesSummary": {
+      "minPrice": "115.67",
+      "minCurrencyCode": "USD",
+      "minCurrencyCodeSymbol": "$",
+      "minStrikePrice": "135.67",
+      "pclnId": "D2D732A66F918E058B0F382D2D95E8C7DA89AAC1C9DA417B53FDCBB349ABD93F",
+      "freeCancelableRateAvail": true,
+      "payWhenYouStayAvailable": true,
+      "minRatePromos": [
+        {
+          "type": "DISCOUNT",
+          "title": "Special Discount 15% off",
+          "desc": "Advance Purchase - Non Refundable",
+          "terms": "All advance purchase rates are non refundable",
+          "valueAddDesc": false,
+          "discountType": "PERCENT",
+          "discountPercentage": 14.74165254,
+          "displayStrikethroughPrice": "135.67",
+          "displayStrikethroughPriceCurrency": "USD",
+          "nativeStrikethroughPrice": "135.67",
+          "nativeStrikethroughPriceCurrency": "USD",
+          "showDiscount": true,
+          "freeNightCumulative": false,
+          "numNightsPerFreeNight": 0,
+          "numFreeNightsGiven": 0
+        }
+      ],
+      "availablePromos": [
+        {
+          "type": "DISCOUNT",
+          "title": "Special Discount 15% off",
+          "desc": "Advance Purchase - Non Refundable",
+          "terms": "All advance purchase rates are non refundable",
+          "valueAddDesc": false,
+          "discountType": "PERCENT",
+          "discountPercentage": 14.74165254,
+          "displayStrikethroughPrice": "135.67",
+          "displayStrikethroughPriceCurrency": "USD",
+          "nativeStrikethroughPrice": "135.67",
+          "nativeStrikethroughPriceCurrency": "USD",
+          "showDiscount": true,
+          "freeNightCumulative": false,
+          "numNightsPerFreeNight": 0,
+          "numFreeNightsGiven": 0
+        }
+      ],
+      "roomLeft": 5,
+      "ccNotRequiredAvailable": false
+    },
+    "allInclusiveRateProperty": false,
+    "recentlyViewed": false,
+    "dealUnwrapable": false
+  },
+  {
+    "hotelId": "43582105",
+    "name": "Staybridge Suites Atlanta Airport",
+    "brandId": "28302",
+    "starRating": 3,
+    "location": {
+      "address": {
+        "addressLine1": "3420 Norman Berry Drive",
+        "cityName": "Hapeville",
+        "provinceCode": "GA",
+        "countryName": "United States",
+        "zip": "30354",
+        "phone": "404-305-9930",
+        "isoCountryCode": "US"
+      },
+      "longitude": -84.427423,
+      "latitude": 33.662403,
+      "timeZone": "America/New_York",
+      "neighborhoodId": "5556",
+      "neighborhoodName": "Hartsfield Airport (ATL) North",
+      "cityId": 3000096602,
+      "zoneId": "51525"
+    },
+    "thumbnailUrl": "http://mobileimg.priceline.com/htlimg/43582/43582105/thumbnail-150-square.jpg",
+    "hotelFeatures": {
+      "hotelAmenityCodes": [
+        "PETALLOW",
+        "FPRKING",
+        "BUSCNTR",
+        "FINTRNT",
+        "FBRKFST",
+        "FINTRRM",
+        "FITSPA",
+        "FINTRPUB",
+        "NSMKFAC",
+        "HANDFAC"
+      ]
+    },
+    "overallGuestRating": 9.3,
+    "totalReviewCount": 11,
+    "guestReviewGdsName": "PCLN",
+    "proximity": 1.5301912087277785,
+    "chainCode": "YZ",
+    "ratesSummary": {
+      "minPrice": "126.14",
+      "minCurrencyCode": "USD",
+      "minCurrencyCodeSymbol": "$",
+      "pclnId": "7CAB2BA428EE0798F99372E7665C56432D86FCBECCD79E81D472CC9A30EA570B",
+      "freeCancelableRateAvail": true,
+      "payWhenYouStayAvailable": true,
+      "minRatePromos": [
+        {
+          "type": "DISCOUNT",
+          "title": "Special Discount",
+          "desc": "Book Now and Save",
+          "terms": "Negotiated Specials may be limited to certain dates and subject to availability.",
+          "valueAddDesc": false,
+          "discountType": "PERCENT",
+          "discountPercentage": 4.19989367,
+          "showDiscount": false,
+          "freeNightCumulative": false,
+          "numNightsPerFreeNight": 0,
+          "numFreeNightsGiven": 0
+        }
+      ],
+      "availablePromos": [
+        {
+          "type": "DISCOUNT",
+          "title": "Special Discount",
+          "desc": "Book Now and Save",
+          "terms": "Negotiated Specials may be limited to certain dates and subject to availability.",
+          "valueAddDesc": false,
+          "discountType": "PERCENT",
+          "discountPercentage": 4.19989367,
+          "showDiscount": false,
+          "freeNightCumulative": false,
+          "numNightsPerFreeNight": 0,
+          "numFreeNightsGiven": 0
+        },
+        {
+          "type": "DISCOUNT",
+          "title": "Smart Deal",
+          "terms": "Negotiated Specials may be limited to certain dates and subject to availability.",
+          "valueAddDesc": false,
+          "discountType": "PERCENT",
+          "discountPercentage": 0,
+          "showDiscount": false,
+          "dealType": "SMART",
+          "freeNightCumulative": false,
+          "numNightsPerFreeNight": 0,
+          "numFreeNightsGiven": 0
+        }
+      ],
+      "ccNotRequiredAvailable": false
+    },
+    "allInclusiveRateProperty": false,
+    "recentlyViewed": false,
+    "dealUnwrapable": false
+  },
+  {
+    "hotelId": "51827",
+    "name": "Country Inn & Suites By Carlson Atlanta -Airport North",
+    "brandId": "115",
+    "starRating": 2.5,
+    "location": {
+      "address": {
+        "addressLine1": "1365 Hardin Avenue",
+        "cityName": "Atlanta",
+        "provinceCode": "GA",
+        "countryName": "United States",
+        "zip": "30344",
+        "phone": "404-767-9787",
+        "isoCountryCode": "US"
+      },
+      "longitude": -84.43370081,
+      "latitude": 33.66057582,
+      "timeZone": "America/New_York",
+      "neighborhoodId": "5556",
+      "neighborhoodName": "Hartsfield Airport (ATL) North",
+      "cityId": 3000003496,
+      "zoneId": "51525"
+    },
+    "thumbnailUrl": "http://mobileimg.priceline.com/htlimg/51/51827/thumbnail-150-square.jpg",
+    "hotelFeatures": {
+      "hotelAmenityCodes": [
+        "FPRKING",
+        "AIRSHUTTL",
+        "SPA",
+        "FBRKFST",
+        "FITSPA",
+        "FINTRPUB",
+        "NSMKFAC",
+        "HANDFAC",
+        "BUSCNTR",
+        "SPOOLIN",
+        "FINTRNT",
+        "SPOOL",
+        "FINTRRM"
+      ]
+    },
+    "overallGuestRating": 8.1,
+    "totalReviewCount": 160,
+    "guestReviewGdsName": "PCLN",
+    "proximity": 1.5212077831322115,
+    "chainCode": "CX",
+    "ratesSummary": {
+      "minPrice": "94.75",
+      "minCurrencyCode": "USD",
+      "minCurrencyCodeSymbol": "$",
+      "pclnId": "D6B0E02CDBC9F405875B3FF85F3EC4F629F8D7574CA4B03F",
+      "freeCancelableRateAvail": true,
+      "payWhenYouStayAvailable": false,
+      "ccNotRequiredAvailable": false
+    },
+    "allInclusiveRateProperty": false,
+    "recentlyViewed": false,
+    "dealUnwrapable": false
+  },
+  {
+    "hotelId": "53328",
+    "name": "Hilton Atlanta Airport",
+    "brandId": "10",
+    "hotelVirtualTourURL": "http://www.vfmii.com/exc/aspquery?command=invoke&ipid=1070746&ids=145062",
+    "starRating": 4,
+    "location": {
+      "address": {
+        "addressLine1": "1031 Virginia Avenue",
+        "cityName": "Atlanta",
+        "provinceCode": "GA",
+        "countryName": "United States",
+        "zip": "30354",
+        "phone": "404-767-9000",
+        "isoCountryCode": "US"
+      },
+      "longitude": -84.42478943,
+      "latitude": 33.66011429,
+      "timeZone": "America/New_York",
+      "neighborhoodId": "5556",
+      "neighborhoodName": "Hartsfield Airport (ATL) North",
+      "cityId": 3000003496,
+      "zoneId": "51525"
+    },
+    "thumbnailUrl": "http://mobileimg.priceline.com/htlimg/53/53328/thumbnail-150-square.jpg",
+    "hotelFeatures": {
+      "hotelAmenityCodes": [
+        "PETALLOW",
+        "SPOOLIN",
+        "AIRSHUTTL",
+        "SPOOL",
+        "FITSPA",
+        "NSMKFAC"
+      ]
+    },
+    "overallGuestRating": 8.2,
+    "totalReviewCount": 392,
+    "guestReviewGdsName": "PCLN",
+    "proximity": 1.3518853838949396,
+    "chainCode": "HH",
+    "ratesSummary": {
+      "minPrice": "115.00",
+      "minCurrencyCode": "USD",
+      "minCurrencyCodeSymbol": "$",
+      "pclnId": "AAD336F1A4231BA35336AED842F6825FF01E3E619D1D5AE4",
+      "freeCancelableRateAvail": true,
+      "payWhenYouStayAvailable": true,
+      "minRatePromos": [
+        {
+          "type": "VALUE_ADD",
+          "title": "Free Parking",
+          "desc": "Stay at least three nights and receive complimentary parking for one vehicle per room. ",
+          "terms": "Negotiated Specials may be limited to certain dates and subject to availability. This Negotiated Special is valid for up to two adults per room traveling on the dates selected. No credit will be given for any unused portion of this Negotiated Special.",
+          "valueAddDesc": false,
+          "discountPercentage": 0,
+          "showDiscount": false,
+          "freeNightCumulative": false,
+          "numNightsPerFreeNight": 0,
+          "numFreeNightsGiven": 0
+        }
+      ],
+      "availablePromos": [
+        {
+          "type": "VALUE_ADD",
+          "title": "Free Parking",
+          "desc": "Stay at least three nights and receive complimentary parking for one vehicle per room. ",
+          "terms": "Negotiated Specials may be limited to certain dates and subject to availability. This Negotiated Special is valid for up to two adults per room traveling on the dates selected. No credit will be given for any unused portion of this Negotiated Special.",
+          "valueAddDesc": false,
+          "discountPercentage": 0,
+          "showDiscount": false,
+          "freeNightCumulative": false,
+          "numNightsPerFreeNight": 0,
+          "numFreeNightsGiven": 0
+        },
+        {
+          "type": "DISCOUNT",
+          "title": "Smart Deal",
+          "terms": "Negotiated Specials may be limited to certain dates and subject to availability.",
+          "valueAddDesc": false,
+          "discountType": "PERCENT",
+          "discountPercentage": 0,
+          "showDiscount": false,
+          "dealType": "SMART",
+          "freeNightCumulative": false,
+          "numNightsPerFreeNight": 0,
+          "numFreeNightsGiven": 0
+        }
+      ],
+      "ccNotRequiredAvailable": false
+    },
+    "allInclusiveRateProperty": false,
+    "recentlyViewed": false,
+    "dealUnwrapable": false
+  },
+  {
+    "hotelId": "63639705",
+    "name": "Homewood Suites Atlanta Airport North",
+    "brandId": "12",
+    "starRating": 3,
+    "location": {
+      "address": {
+        "addressLine1": "3405 Bobby Brown Parkway",
+        "cityName": "Atlanta",
+        "provinceCode": "GA",
+        "countryName": "United States",
+        "zip": "30344",
+        "phone": "404-554-9300",
+        "isoCountryCode": "US"
+      },
+      "longitude": -84.43035542,
+      "latitude": 33.66269059,
+      "timeZone": "America/New_York",
+      "neighborhoodId": "5556",
+      "neighborhoodName": "Hartsfield Airport (ATL) North",
+      "cityId": 3000003496,
+      "zoneId": "51525"
+    },
+    "thumbnailUrl": "http://mobileimg.priceline.com/htlimg/63639/63639705/thumbnail-150-square.jpg",
+    "hotelFeatures": {
+      "hotelAmenityCodes": [
+        "FPRKING",
+        "BUSCNTR",
+        "FINTRNT",
+        "FBRKFST",
+        "FINTRRM",
+        "FITSPA",
+        "NSMKFAC"
+      ]
+    },
+    "overallGuestRating": 8.1,
+    "totalReviewCount": 8,
+    "guestReviewGdsName": "PCLN",
+    "proximity": 1.5894130734472531,
+    "chainCode": "HG",
+    "ratesSummary": {
+      "minPrice": "143.10",
+      "minCurrencyCode": "USD",
+      "minCurrencyCodeSymbol": "$",
+      "minStrikePrice": "159.00",
+      "pclnId": "FEDD7E27A9E20CAF7BB22CC1A91613E4D4185558D0D4FB38EBBB9F3C9E6EDC03",
+      "freeCancelableRateAvail": true,
+      "payWhenYouStayAvailable": true,
+      "minRatePromos": [
+        {
+          "type": "DISCOUNT",
+          "title": "Special Discount 10% off",
+          "desc": "Advance Purchase",
+          "terms": "Negotiated Specials may be limited to certain dates and subject to availability.",
+          "valueAddDesc": false,
+          "discountType": "PERCENT",
+          "discountPercentage": 10,
+          "displayStrikethroughPrice": "159.00",
+          "displayStrikethroughPriceCurrency": "USD",
+          "nativeStrikethroughPrice": "159.00",
+          "nativeStrikethroughPriceCurrency": "USD",
+          "showDiscount": true,
+          "freeNightCumulative": false,
+          "numNightsPerFreeNight": 0,
+          "numFreeNightsGiven": 0
+        }
+      ],
+      "availablePromos": [
+        {
+          "type": "DISCOUNT",
+          "title": "Smart Deal",
+          "terms": "Negotiated Specials may be limited to certain dates and subject to availability.",
+          "valueAddDesc": false,
+          "discountType": "PERCENT",
+          "discountPercentage": 0,
+          "showDiscount": false,
+          "dealType": "SMART",
+          "freeNightCumulative": false,
+          "numNightsPerFreeNight": 0,
+          "numFreeNightsGiven": 0
+        },
+        {
+          "type": "DISCOUNT",
+          "title": "Special Discount 10% off",
+          "desc": "Advance Purchase",
+          "terms": "Negotiated Specials may be limited to certain dates and subject to availability.",
+          "valueAddDesc": false,
+          "discountType": "PERCENT",
+          "discountPercentage": 10,
+          "displayStrikethroughPrice": "159.00",
+          "displayStrikethroughPriceCurrency": "USD",
+          "nativeStrikethroughPrice": "159.00",
+          "nativeStrikethroughPriceCurrency": "USD",
+          "showDiscount": true,
+          "freeNightCumulative": false,
+          "numNightsPerFreeNight": 0,
+          "numFreeNightsGiven": 0
+        }
+      ],
+      "roomLeft": 4,
+      "ccNotRequiredAvailable": false
+    },
+    "allInclusiveRateProperty": false,
+    "recentlyViewed": false,
+    "dealUnwrapable": false
+  },
+  {
+    "hotelId": "52759",
+    "name": "Econo Lodge Atlanta",
+    "brandId": "110",
+    "starRating": 1,
+    "location": {
+      "address": {
+        "addressLine1": "1360 Virginia Ave",
+        "cityName": "Atlanta",
+        "provinceCode": "GA",
+        "countryName": "United States",
+        "zip": "30344",
+        "phone": "4047615201",
+        "isoCountryCode": "US"
+      },
+      "longitude": -84.43363953,
+      "latitude": 33.65875244,
+      "timeZone": "America/New_York",
+      "neighborhoodId": "5556",
+      "neighborhoodName": "Hartsfield Airport (ATL) North",
+      "cityId": 3000003496,
+      "zoneId": "51525"
+    },
+    "thumbnailUrl": "http://mobileimg.priceline.com/htlimg/52/52759/thumbnail-150-square.jpg",
+    "hotelFeatures": {
+      "hotelAmenityCodes": [
+        "SPOOLOUT",
+        "FPRKING",
+        "BUSCNTR",
+        "AIRSHUTTL",
+        "FINTRNT",
+        "FBRKFST",
+        "SPOOL",
+        "FINTRRM",
+        "FINTRPUB",
+        "NSMKFAC"
+      ]
+    },
+    "overallGuestRating": 3.5,
+    "totalReviewCount": 36,
+    "guestReviewGdsName": "PCLN",
+    "proximity": 1.4065612382711685,
+    "chainCode": "EO",
+    "ratesSummary": {
+      "minPrice": "46.80",
+      "minCurrencyCode": "USD",
+      "minCurrencyCodeSymbol": "$",
+      "pclnId": "879275646907F66D3F9C6AB799FF7CC60428F7AA8B450950",
+      "freeCancelableRateAvail": true,
+      "payWhenYouStayAvailable": true,
+      "minRatePromos": [
+        {
+          "type": "DISCOUNT",
+          "title": "Smart Deal",
+          "terms": "Negotiated Specials may be limited to certain dates and subject to availability.",
+          "valueAddDesc": false,
+          "discountType": "PERCENT",
+          "discountPercentage": 0,
+          "showDiscount": false,
+          "dealType": "SMART",
+          "freeNightCumulative": false,
+          "numNightsPerFreeNight": 0,
+          "numFreeNightsGiven": 0
+        }
+      ],
+      "availablePromos": [
+        {
+          "type": "DISCOUNT",
+          "title": "Smart Deal",
+          "terms": "Negotiated Specials may be limited to certain dates and subject to availability.",
+          "valueAddDesc": false,
+          "discountType": "PERCENT",
+          "discountPercentage": 0,
+          "showDiscount": false,
+          "dealType": "SMART",
+          "freeNightCumulative": false,
+          "numNightsPerFreeNight": 0,
+          "numFreeNightsGiven": 0
+        }
+      ],
+      "roomLeft": 5,
+      "ccNotRequiredAvailable": false
+    },
+    "allInclusiveRateProperty": false,
+    "recentlyViewed": false,
+    "dealUnwrapable": false
+  },
+  {
+    "hotelId": "56147",
+    "name": "La Quinta Inn & Suites Atlanta Airport North",
+    "brandId": "67",
+    "starRating": 2.5,
+    "location": {
+      "address": {
+        "addressLine1": "1200 Virginia Ave",
+        "cityName": "Atlanta",
+        "provinceCode": "GA",
+        "countryName": "United States",
+        "zip": "30344",
+        "phone": "404-209-1800",
+        "isoCountryCode": "US"
+      },
+      "longitude": -84.42850494,
+      "latitude": 33.6582222,
+      "timeZone": "America/New_York",
+      "neighborhoodId": "5556",
+      "neighborhoodName": "Hartsfield Airport (ATL) North",
+      "cityId": 3000003496,
+      "zoneId": "51525"
+    },
+    "thumbnailUrl": "http://mobileimg.priceline.com/htlimg/56/56147/thumbnail-150-square.jpg",
+    "hotelFeatures": {
+      "hotelAmenityCodes": [
+        "PETALLOW",
+        "SPOOLOUT",
+        "FPRKING",
+        "BUSCNTR",
+        "AIRSHUTTL",
+        "FINTRNT",
+        "FBRKFST",
+        "SPOOL",
+        "FINTRPUB",
+        "NSMKFAC",
+        "HANDFAC"
+      ]
+    },
+    "overallGuestRating": 9.2,
+    "totalReviewCount": 6,
+    "guestReviewGdsName": "PCLN",
+    "proximity": 1.2632207867639798,
+    "chainCode": "LQ",
+    "ratesSummary": {
+      "minPrice": "119.01",
+      "minCurrencyCode": "USD",
+      "minCurrencyCodeSymbol": "$",
+      "pclnId": "364C0AFDB090C2E063BA85EB89FDBC8B388638D9E722EC8E",
+      "freeCancelableRateAvail": true,
+      "payWhenYouStayAvailable": true,
+      "availablePromos": [
+        {
+          "type": "DISCOUNT",
+          "title": "Smart Deal",
+          "terms": "Negotiated Specials may be limited to certain dates and subject to availability.",
+          "valueAddDesc": false,
+          "discountType": "PERCENT",
+          "discountPercentage": 0,
+          "showDiscount": false,
+          "dealType": "SMART",
+          "freeNightCumulative": false,
+          "numNightsPerFreeNight": 0,
+          "numFreeNightsGiven": 0
+        }
+      ],
+      "ccNotRequiredAvailable": false
+    },
+    "allInclusiveRateProperty": false,
+    "recentlyViewed": false,
+    "dealUnwrapable": false
+  },
+  {
+    "hotelId": "52647",
+    "name": "Drury Inn & Suites Atlanta Airport",
+    "brandId": "114",
+    "starRating": 3,
+    "location": {
+      "address": {
+        "addressLine1": "1270 Virginia Avenue",
+        "cityName": "Atlanta",
+        "provinceCode": "GA",
+        "countryName": "United States",
+        "zip": "30344",
+        "phone": "404-761-4900",
+        "isoCountryCode": "US"
+      },
+      "longitude": -84.43005435,
+      "latitude": 33.65896583,
+      "timeZone": "America/New_York",
+      "neighborhoodId": "5556",
+      "neighborhoodName": "Hartsfield Airport (ATL) North",
+      "cityId": 3000003496,
+      "zoneId": "51525"
+    },
+    "thumbnailUrl": "http://mobileimg.priceline.com/htlimg/52/52647/thumbnail-150-square.jpg",
+    "hotelFeatures": {
+      "hotelAmenityCodes": [
+        "PETALLOW",
+        "FPRKING",
+        "BUSCNTR",
+        "SPA",
+        "FINTRNT",
+        "FBRKFST",
+        "SPOOL",
+        "FINTRRM",
+        "FINTRPUB",
+        "NSMKFAC",
+        "HANDFAC"
+      ]
+    },
+    "overallGuestRating": 8.6,
+    "totalReviewCount": 91,
+    "guestReviewGdsName": "PCLN",
+    "proximity": 1.3390351805749539,
+    "chainCode": "DR",
+    "ratesSummary": {
+      "minPrice": "111.76",
+      "minCurrencyCode": "USD",
+      "minCurrencyCodeSymbol": "$",
+      "pclnId": "4DDBC63293BB5AD9144950A735556F65BB4023D7DE9C815A",
+      "freeCancelableRateAvail": true,
+      "payWhenYouStayAvailable": true,
+      "minRatePromos": [
+        {
+          "type": "DISCOUNT",
+          "title": "Special Discount",
+          "desc": "Book Now and Save",
+          "terms": "Negotiated Specials may be limited to certain dates and subject to availability.",
+          "valueAddDesc": false,
+          "discountType": "PERCENT",
+          "discountPercentage": 4.20024001,
+          "showDiscount": false,
+          "freeNightCumulative": false,
+          "numNightsPerFreeNight": 0,
+          "numFreeNightsGiven": 0
+        }
+      ],
+      "availablePromos": [
+        {
+          "type": "DISCOUNT",
+          "title": "Special Discount",
+          "desc": "Book Now and Save",
+          "terms": "Negotiated Specials may be limited to certain dates and subject to availability.",
+          "valueAddDesc": false,
+          "discountType": "PERCENT",
+          "discountPercentage": 4.20024001,
+          "showDiscount": false,
+          "freeNightCumulative": false,
+          "numNightsPerFreeNight": 0,
+          "numFreeNightsGiven": 0
+        },
+        {
+          "type": "DISCOUNT",
+          "title": "Smart Deal",
+          "terms": "Negotiated Specials may be limited to certain dates and subject to availability.",
+          "valueAddDesc": false,
+          "discountType": "PERCENT",
+          "discountPercentage": 0,
+          "showDiscount": false,
+          "dealType": "SMART",
+          "freeNightCumulative": false,
+          "numNightsPerFreeNight": 0,
+          "numFreeNightsGiven": 0
+        }
+      ],
+      "ccNotRequiredAvailable": false
+    },
+    "allInclusiveRateProperty": false,
+    "recentlyViewed": false,
+    "dealUnwrapable": false
+  },
+  {
+    "hotelId": "18071704",
+    "name": "Hilton Garden Inn Atlanta Airport North",
+    "brandId": "2303",
+    "starRating": 3,
+    "location": {
+      "address": {
+        "addressLine1": "3437 Bobby Brown Parkway",
+        "cityName": "East Point",
+        "provinceCode": "GA",
+        "countryName": "United States",
+        "zip": "30344",
+        "phone": "404-477-6600",
+        "isoCountryCode": "US"
+      },
+      "longitude": -84.430824,
+      "latitude": 33.66106,
+      "timeZone": "America/New_York",
+      "neighborhoodId": "5556",
+      "neighborhoodName": "Hartsfield Airport (ATL) North",
+      "cityId": 3000097481,
+      "zoneId": "51525"
+    },
+    "thumbnailUrl": "http://mobileimg.priceline.com/htlimg/18071/18071704/thumbnail-150-square.jpg",
+    "hotelFeatures": {
+      "hotelAmenityCodes": [
+        "SPOOLOUT",
+        "FPRKING",
+        "BUSCNTR",
+        "SPOOLIN",
+        "AIRSHUTTL",
+        "FINTRNT",
+        "SPOOL",
+        "FINTRRM",
+        "FITSPA",
+        "NSMKFAC"
+      ]
+    },
+    "overallGuestRating": 8.7,
+    "totalReviewCount": 64,
+    "guestReviewGdsName": "PCLN",
+    "proximity": 1.490262576435715,
+    "chainCode": "GI",
+    "ratesSummary": {
+      "minPrice": "108.00",
+      "minCurrencyCode": "USD",
+      "minCurrencyCodeSymbol": "$",
+      "minStrikePrice": "120.00",
+      "pclnId": "BCB11C7CCBF81B671421C40E5464B332961DAB4FEAB043EB0797DDCCD38AC551",
+      "freeCancelableRateAvail": true,
+      "payWhenYouStayAvailable": true,
+      "minRatePromos": [
+        {
+          "type": "DISCOUNT",
+          "title": "Special Discount 10% off",
+          "desc": "Advance Purchase",
+          "terms": "Negotiated Specials may be limited to certain dates and subject to availability.",
+          "valueAddDesc": false,
+          "discountType": "PERCENT",
+          "discountPercentage": 10,
+          "displayStrikethroughPrice": "120.00",
+          "displayStrikethroughPriceCurrency": "USD",
+          "nativeStrikethroughPrice": "120.00",
+          "nativeStrikethroughPriceCurrency": "USD",
+          "showDiscount": true,
+          "freeNightCumulative": false,
+          "numNightsPerFreeNight": 0,
+          "numFreeNightsGiven": 0
+        }
+      ],
+      "availablePromos": [
+        {
+          "type": "DISCOUNT",
+          "title": "Special Discount 10% off",
+          "desc": "Advance Purchase",
+          "terms": "Negotiated Specials may be limited to certain dates and subject to availability.",
+          "valueAddDesc": false,
+          "discountType": "PERCENT",
+          "discountPercentage": 10,
+          "displayStrikethroughPrice": "120.00",
+          "displayStrikethroughPriceCurrency": "USD",
+          "nativeStrikethroughPrice": "120.00",
+          "nativeStrikethroughPriceCurrency": "USD",
+          "showDiscount": true,
+          "freeNightCumulative": false,
+          "numNightsPerFreeNight": 0,
+          "numFreeNightsGiven": 0
+        },
+        {
+          "type": "DISCOUNT",
+          "title": "Smart Deal",
+          "terms": "Negotiated Specials may be limited to certain dates and subject to availability.",
+          "valueAddDesc": false,
+          "discountType": "PERCENT",
+          "discountPercentage": 0,
+          "showDiscount": false,
+          "dealType": "SMART",
+          "freeNightCumulative": false,
+          "numNightsPerFreeNight": 0,
+          "numFreeNightsGiven": 0
+        }
+      ],
+      "ccNotRequiredAvailable": false
+    },
+    "allInclusiveRateProperty": false,
+    "recentlyViewed": false,
+    "dealUnwrapable": false
+  },
+  {
+    "hotelId": "57258",
+    "name": "RENAISSANCE CONCOURSE ATLANTA AIRPORT HOTEL, A Marriott Luxury & Lifestyle Hotel",
+    "brandId": "21",
+    "starRating": 4,
+    "location": {
+      "address": {
+        "addressLine1": "1 Hartsfield Centre Parkway",
+        "cityName": "Atlanta",
+        "provinceCode": "GA",
+        "countryName": "United States",
+        "zip": "30354",
+        "phone": "404-209-9999",
+        "isoCountryCode": "US"
+      },
+      "longitude": -84.42685699,
+      "latitude": 33.65445709,
+      "timeZone": "America/New_York",
+      "neighborhoodId": "5556",
+      "neighborhoodName": "Hartsfield Airport (ATL) North",
+      "cityId": 3000003496,
+      "zoneId": "51525"
+    },
+    "thumbnailUrl": "http://mobileimg.priceline.com/htlimg/57/57258/thumbnail-150-square.jpg",
+    "hotelFeatures": {
+      "hotelAmenityCodes": [
+        "SPOOLOUT",
+        "BUSCNTR",
+        "RESTRNT",
+        "SPOOLIN",
+        "AIRSHUTTL",
+        "FINTRNT",
+        "SPOOL",
+        "FITSPA",
+        "FINTRPUB",
+        "NSMKFAC",
+        "HANDFAC"
+      ]
+    },
+    "overallGuestRating": 8.6,
+    "totalReviewCount": 718,
+    "guestReviewGdsName": "PCLN",
+    "proximity": 0.9872388817197839,
+    "chainCode": "BR",
+    "ratesSummary": {
+      "minPrice": "129.00",
+      "minCurrencyCode": "USD",
+      "minCurrencyCodeSymbol": "$",
+      "pclnId": "9DF98CC34FD63D9B5BECF12CC4E446C4A4B973A655CD0070",
+      "freeCancelableRateAvail": true,
+      "payWhenYouStayAvailable": true,
+      "roomLeft": 5,
+      "ccNotRequiredAvailable": false
+    },
+    "allInclusiveRateProperty": false,
+    "recentlyViewed": false,
+    "dealUnwrapable": false
+  },
+  {
+    "hotelId": "51833",
+    "name": "Courtyard By Marriott Atlanta Airport North/Virginia Avenue",
+    "brandId": "16",
+    "starRating": 3,
+    "location": {
+      "address": {
+        "addressLine1": "3399 International Blvd",
+        "cityName": "Hapeville",
+        "provinceCode": "GA",
+        "countryName": "United States",
+        "zip": "30354",
+        "phone": "404-559-1043",
+        "isoCountryCode": "US"
+      },
+      "longitude": -84.4238205,
+      "latitude": 33.66197586,
+      "timeZone": "America/New_York",
+      "neighborhoodId": "5556",
+      "neighborhoodName": "Hartsfield Airport (ATL) North",
+      "cityId": 3000096602,
+      "zoneId": "51525"
+    },
+    "thumbnailUrl": "http://mobileimg.priceline.com/htlimg/51/51833/thumbnail-150-square.jpg",
+    "hotelFeatures": {
+      "hotelAmenityCodes": [
+        "SPOOLOUT",
+        "FPRKING",
+        "BUSCNTR",
+        "RESTRNT",
+        "AIRSHUTTL",
+        "FINTRNT",
+        "SPOOL",
+        "FINTRRM",
+        "FITSPA",
+        "FINTRPUB",
+        "NSMKFAC",
+        "HANDFAC"
+      ]
+    },
+    "overallGuestRating": 8.1,
+    "totalReviewCount": 296,
+    "guestReviewGdsName": "PCLN",
+    "proximity": 1.4759445112675442,
+    "chainCode": "CY",
+    "ratesSummary": {
+      "minPrice": "103.00",
+      "minCurrencyCode": "USD",
+      "minCurrencyCodeSymbol": "$",
+      "minStrikePrice": "129.00",
+      "pclnId": "8CADDF297AE618C23EE44EBA48ACBC2AD0A8B2753FAF7FF4",
+      "freeCancelableRateAvail": true,
+      "payWhenYouStayAvailable": true,
+      "minRatePromos": [
+        {
+          "type": "DISCOUNT",
+          "title": "Special Discount 20% off",
+          "desc": "Advance Purchase - Non Refundable",
+          "terms": "Negotiated Specials may be limited to certain dates and subject to availability.",
+          "valueAddDesc": false,
+          "discountType": "PERCENT",
+          "discountPercentage": 20.15503876,
+          "displayStrikethroughPrice": "129.00",
+          "displayStrikethroughPriceCurrency": "USD",
+          "nativeStrikethroughPrice": "129.00",
+          "nativeStrikethroughPriceCurrency": "USD",
+          "showDiscount": true,
+          "freeNightCumulative": false,
+          "numNightsPerFreeNight": 0,
+          "numFreeNightsGiven": 0
+        }
+      ],
+      "availablePromos": [
+        {
+          "type": "DISCOUNT",
+          "title": "Special Discount 20% off",
+          "desc": "Advance Purchase - Non Refundable",
+          "terms": "Negotiated Specials may be limited to certain dates and subject to availability.",
+          "valueAddDesc": false,
+          "discountType": "PERCENT",
+          "discountPercentage": 20.15503876,
+          "displayStrikethroughPrice": "129.00",
+          "displayStrikethroughPriceCurrency": "USD",
+          "nativeStrikethroughPrice": "129.00",
+          "nativeStrikethroughPriceCurrency": "USD",
+          "showDiscount": true,
+          "freeNightCumulative": false,
+          "numNightsPerFreeNight": 0,
+          "numFreeNightsGiven": 0
+        },
+        {
+          "type": "DISCOUNT",
+          "title": "Smart Deal",
+          "terms": "Negotiated Specials may be limited to certain dates and subject to availability.",
+          "valueAddDesc": false,
+          "discountType": "PERCENT",
+          "discountPercentage": 0,
+          "showDiscount": false,
+          "dealType": "SMART",
+          "freeNightCumulative": false,
+          "numNightsPerFreeNight": 0,
+          "numFreeNightsGiven": 0
+        }
+      ],
+      "roomLeft": 5,
+      "ccNotRequiredAvailable": false
+    },
+    "allInclusiveRateProperty": false,
+    "recentlyViewed": false,
+    "dealUnwrapable": false
+  },
+  {
+    "hotelId": "55934",
+    "name": "Residence Inn By Marriott Atlanta Airport North/Virginia",
+    "brandId": "22",
+    "starRating": 2.5,
+    "location": {
+      "address": {
+        "addressLine1": "3401 International Blvd",
+        "cityName": "Hapeville",
+        "provinceCode": "GA",
+        "countryName": "United States",
+        "zip": "30354",
+        "phone": "404-761-0511",
+        "isoCountryCode": "US"
+      },
+      "longitude": -84.42451477,
+      "latitude": 33.6614418,
+      "timeZone": "America/New_York",
+      "neighborhoodId": "5556",
+      "neighborhoodName": "Hartsfield Airport (ATL) North",
+      "cityId": 3000096602,
+      "zoneId": "51525"
+    },
+    "thumbnailUrl": "http://mobileimg.priceline.com/htlimg/55/55934/thumbnail-150-square.jpg",
+    "hotelFeatures": {
+      "hotelAmenityCodes": [
+        "SPOOLOUT",
+        "FPRKING",
+        "AIRSHUTTL",
+        "FBRKFST",
+        "FITSPA",
+        "FINTRPUB",
+        "NSMKFAC",
+        "HANDFAC",
+        "PETALLOW",
+        "BUSCNTR",
+        "FINTRNT",
+        "SPOOL",
+        "FINTRRM"
+      ]
+    },
+    "overallGuestRating": 8.5,
+    "totalReviewCount": 31,
+    "guestReviewGdsName": "PCLN",
+    "proximity": 1.441809874807162,
+    "chainCode": "RC",
+    "ratesSummary": {
+      "minPrice": "162.33",
+      "minCurrencyCode": "USD",
+      "minCurrencyCodeSymbol": "$",
+      "pclnId": "CD8F958FAF632D3176FDB389E28726A725DCC204A33D2038",
+      "freeCancelableRateAvail": true,
+      "payWhenYouStayAvailable": true,
+      "availablePromos": [
+        {
+          "type": "DISCOUNT",
+          "title": "On Sale Now -> Save 6% on this stay",
+          "desc": "48 Hour Sale - Limited Time Offer",
+          "terms": "Negotiated Specials may be limited to certain dates and subject to availability.",
+          "valueAddDesc": false,
+          "discountType": "PERCENT",
+          "discountPercentage": 5.80248346,
+          "displayStrikethroughPrice": "172.34",
+          "displayStrikethroughPriceCurrency": "USD",
+          "nativeStrikethroughPrice": "172.34",
+          "nativeStrikethroughPriceCurrency": "USD",
+          "showDiscount": true,
+          "freeNightCumulative": false,
+          "numNightsPerFreeNight": 0,
+          "numFreeNightsGiven": 0
+        }
+      ],
+      "roomLeft": 5,
+      "ccNotRequiredAvailable": false
+    },
+    "allInclusiveRateProperty": false,
+    "recentlyViewed": false,
+    "dealUnwrapable": false
+  },
+  {
+    "hotelId": "53818",
+    "name": "Crowne Plaza Atlanta Airport",
+    "brandId": "5",
+    "hotelVirtualTourURL": "http://www.vfmii.com/exc/aspquery?command=invoke&ipid=1050402&ids=145062",
+    "starRating": 3.5,
+    "location": {
+      "address": {
+        "addressLine1": "1325 Virginia Ave",
+        "cityName": "Atlanta",
+        "provinceCode": "GA",
+        "countryName": "United States",
+        "zip": "30344",
+        "phone": "404-768-6660",
+        "isoCountryCode": "US"
+      },
+      "longitude": -84.43299271,
+      "latitude": 33.65912877,
+      "timeZone": "America/New_York",
+      "neighborhoodId": "5556",
+      "neighborhoodName": "Hartsfield Airport (ATL) North",
+      "cityId": 3000003496,
+      "zoneId": "51525"
+    },
+    "thumbnailUrl": "http://mobileimg.priceline.com/htlimg/53/53818/thumbnail-150-square.jpg",
+    "hotelFeatures": {
+      "hotelAmenityCodes": [
+        "PETALLOW",
+        "SPOOLOUT",
+        "BUSCNTR",
+        "RESTRNT",
+        "FINTRNT",
+        "SPOOL",
+        "FINTRRM",
+        "FITSPA",
+        "FINTRPUB",
+        "NSMKFAC",
+        "HANDFAC"
+      ]
+    },
+    "overallGuestRating": 7.5,
+    "totalReviewCount": 476,
+    "guestReviewGdsName": "PCLN",
+    "proximity": 1.4134083152222812,
+    "chainCode": "CP",
+    "ratesSummary": {
+      "minPrice": "107.67",
+      "minCurrencyCode": "USD",
+      "minCurrencyCodeSymbol": "$",
+      "minStrikePrice": "125.67",
+      "pclnId": "49620D9F03E090D3C67EE26D5FC05906163D72414152DE06",
+      "freeCancelableRateAvail": true,
+      "payWhenYouStayAvailable": true,
+      "minRatePromos": [
+        {
+          "type": "DISCOUNT",
+          "title": "Special Discount 14% off",
+          "desc": "Advance Purchase",
+          "terms": "Negotiated Specials may be limited to certain dates and subject to availability.",
+          "valueAddDesc": false,
+          "discountType": "PERCENT",
+          "discountPercentage": 14.3232275,
+          "displayStrikethroughPrice": "125.67",
+          "displayStrikethroughPriceCurrency": "USD",
+          "nativeStrikethroughPrice": "125.67",
+          "nativeStrikethroughPriceCurrency": "USD",
+          "showDiscount": true,
+          "freeNightCumulative": false,
+          "numNightsPerFreeNight": 0,
+          "numFreeNightsGiven": 0
+        }
+      ],
+      "availablePromos": [
+        {
+          "type": "DISCOUNT",
+          "title": "Special Discount 14% off",
+          "desc": "Advance Purchase",
+          "terms": "Negotiated Specials may be limited to certain dates and subject to availability.",
+          "valueAddDesc": false,
+          "discountType": "PERCENT",
+          "discountPercentage": 14.3232275,
+          "displayStrikethroughPrice": "125.67",
+          "displayStrikethroughPriceCurrency": "USD",
+          "nativeStrikethroughPrice": "125.67",
+          "nativeStrikethroughPriceCurrency": "USD",
+          "showDiscount": true,
+          "freeNightCumulative": false,
+          "numNightsPerFreeNight": 0,
+          "numFreeNightsGiven": 0
+        }
+      ],
+      "ccNotRequiredAvailable": false
+    },
+    "allInclusiveRateProperty": false,
+    "recentlyViewed": false,
+    "dealUnwrapable": false
+  },
+  {
+    "hotelId": "12200903",
+    "name": "Maison Lavigne - Bed And Breakfast",
+    "brandId": "483304",
+    "starRating": 2.5,
+    "location": {
+      "address": {
+        "addressLine1": "3532 South Fulton Avenue",
+        "cityName": "Hapeville",
+        "provinceCode": "GA",
+        "countryName": "United States",
+        "zip": "30354",
+        "phone": "404-766-5561",
+        "isoCountryCode": "US"
+      },
+      "longitude": -84.40942383,
+      "latitude": 33.65763092,
+      "timeZone": "America/New_York",
+      "neighborhoodId": "5556",
+      "neighborhoodName": "Hartsfield Airport (ATL) North",
+      "cityId": 3000096602,
+      "zoneId": "51525"
+    },
+    "thumbnailUrl": "http://mobileimg.priceline.com/htlimg/12200/12200903/thumbnail-150-square.jpg",
+    "hotelFeatures": {
+      "hotelAmenityCodes": [
+        "FPRKING",
+        "FINTRNT",
+        "FBRKFST",
+        "FINTRRM",
+        "FINTRPUB"
+      ]
+    },
+    "overallGuestRating": 9,
+    "totalReviewCount": 1,
+    "guestReviewGdsName": "PCLN",
+    "proximity": 1.3929342298905392,
+    "chainCode": "IL",
+    "ratesSummary": {
+      "minPrice": "128.57",
+      "minCurrencyCode": "USD",
+      "minCurrencyCodeSymbol": "$",
+      "pclnId": "69012F62830707B276EA3EED005DC51FBE43452347CF3E9B60410E3C27F9DC4A",
+      "freeCancelableRateAvail": true,
+      "payWhenYouStayAvailable": false,
+      "minRatePromos": [
+        {
+          "type": "DISCOUNT",
+          "title": "Special Discount",
+          "desc": "Book Now and Save",
+          "terms": "Negotiated Specials may be limited to certain dates and subject to availability.",
+          "valueAddDesc": false,
+          "discountType": "PERCENT",
+          "discountPercentage": 4.76296296,
+          "showDiscount": false,
+          "freeNightCumulative": false,
+          "numNightsPerFreeNight": 0,
+          "numFreeNightsGiven": 0
+        }
+      ],
+      "availablePromos": [
+        {
+          "type": "DISCOUNT",
+          "title": "Special Discount",
+          "desc": "Book Now and Save",
+          "terms": "Negotiated Specials may be limited to certain dates and subject to availability.",
+          "valueAddDesc": false,
+          "discountType": "PERCENT",
+          "discountPercentage": 4.76296296,
+          "showDiscount": false,
+          "freeNightCumulative": false,
+          "numNightsPerFreeNight": 0,
+          "numFreeNightsGiven": 0
+        }
+      ],
+      "ccNotRequiredAvailable": false
+    },
+    "allInclusiveRateProperty": false,
+    "recentlyViewed": false,
+    "dealUnwrapable": false
+  },
+  {
+    "hotelId": "54613",
+    "name": "Hyatt Place Atlanta Duluth Gwinnett Mall Hotel",
+    "brandId": "158305",
+    "starRating": 3,
+    "location": {
+      "address": {
+        "addressLine1": "3530 Venture Parkway",
+        "cityName": "Duluth",
+        "provinceCode": "GA",
+        "countryName": "United States",
+        "zip": "30096",
+        "phone": "770-623-9699",
+        "isoCountryCode": "US"
+      },
+      "longitude": -84.12828371,
+      "latitude": 33.95507567,
+      "timeZone": "America/New_York",
+      "neighborhoodId": "5575",
+      "neighborhoodName": "Gwinnett - Duluth",
+      "cityId": 3000003627,
+      "zoneId": "4192"
+    },
+    "thumbnailUrl": "http://mobileimg.priceline.com/htlimg/54/54613/thumbnail-150-square.jpg",
+    "hotelFeatures": {
+      "hotelAmenityCodes": [
+        "SPOOLOUT",
+        "FPRKING",
+        "FBRKFST",
+        "FITSPA",
+        "FINTRPUB",
+        "NSMKFAC",
+        "HANDFAC",
+        "PETALLOW",
+        "BUSCNTR",
+        "RESTRNT",
+        "FINTRNT",
+        "SPOOL",
+        "FINTRRM"
+      ]
+    },
+    "overallGuestRating": 8.5,
+    "totalReviewCount": 292,
+    "guestReviewGdsName": "PCLN",
+    "proximity": 27.518812115646373,
+    "chainCode": "HY",
+    "ratesSummary": {
+      "minPrice": "117.17",
+      "minCurrencyCode": "USD",
+      "minCurrencyCodeSymbol": "$",
+      "minStrikePrice": "129.00",
+      "pclnId": "52A20F21281BDB10A30902F9E273F3292094165DB3426D63",
+      "freeCancelableRateAvail": true,
+      "payWhenYouStayAvailable": true,
+      "minRatePromos": [
+        {
+          "type": "DISCOUNT",
+          "title": "Special Discount 9% off",
+          "desc": "Advanced Purchase",
+          "terms": "Negotiated Specials may be limited to certain dates and subject to availability.",
+          "valueAddDesc": false,
+          "discountType": "PERCENT",
+          "discountPercentage": 9.17054264,
+          "displayStrikethroughPrice": "129.00",
+          "displayStrikethroughPriceCurrency": "USD",
+          "nativeStrikethroughPrice": "129.00",
+          "nativeStrikethroughPriceCurrency": "USD",
+          "showDiscount": true,
+          "freeNightCumulative": false,
+          "numNightsPerFreeNight": 0,
+          "numFreeNightsGiven": 0
+        }
+      ],
+      "availablePromos": [
+        {
+          "type": "DISCOUNT",
+          "title": "Special Discount 9% off",
+          "desc": "Advanced Purchase",
+          "terms": "Negotiated Specials may be limited to certain dates and subject to availability.",
+          "valueAddDesc": false,
+          "discountType": "PERCENT",
+          "discountPercentage": 9.17054264,
+          "displayStrikethroughPrice": "129.00",
+          "displayStrikethroughPriceCurrency": "USD",
+          "nativeStrikethroughPrice": "129.00",
+          "nativeStrikethroughPriceCurrency": "USD",
+          "showDiscount": true,
+          "freeNightCumulative": false,
+          "numNightsPerFreeNight": 0,
+          "numFreeNightsGiven": 0
+        }
+      ],
+      "ccNotRequiredAvailable": false
+    },
+    "allInclusiveRateProperty": false,
+    "recentlyViewed": false,
+    "dealUnwrapable": false
+  },
+  {
+    "hotelId": "55370",
+    "name": "Omni Atlanta Hotel At Cnn Center",
+    "brandId": "28",
+    "starRating": 4,
+    "location": {
+      "address": {
+        "addressLine1": "100 Cnn Center",
+        "cityName": "Atlanta",
+        "provinceCode": "GA",
+        "countryName": "United States",
+        "zip": "30303",
+        "phone": "404-659-0000",
+        "isoCountryCode": "US"
+      },
+      "longitude": -84.39467937,
+      "latitude": 33.75865884,
+      "timeZone": "America/New_York",
+      "neighborhoodId": "5547",
+      "neighborhoodName": "Downtown Atlanta",
+      "cityId": 3000003496,
+      "zoneId": "779"
+    },
+    "thumbnailUrl": "http://mobileimg.priceline.com/htlimg/55/55370/thumbnail-150-square.jpg",
+    "hotelFeatures": {
+      "hotelAmenityCodes": [
+        "PETALLOW",
+        "SPOOLOUT",
+        "BUSCNTR",
+        "RESTRNT",
+        "SPA",
+        "SPOOL",
+        "FITSPA",
+        "NSMKFAC",
+        "HANDFAC"
+      ]
+    },
+    "overallGuestRating": 8.5,
+    "totalReviewCount": 1392,
+    "guestReviewGdsName": "PCLN",
+    "proximity": 8.308995763501889,
+    "chainCode": "OM",
+    "ratesSummary": {
+      "minPrice": "163.69",
+      "minCurrencyCode": "USD",
+      "minCurrencyCodeSymbol": "$",
+      "minStrikePrice": "192.34",
+      "pclnId": "45DAB6516189C034497CC34E9DB594E29778F7A9041FBD33",
+      "freeCancelableRateAvail": true,
+      "payWhenYouStayAvailable": true,
+      "minRatePromos": [
+        {
+          "type": "DISCOUNT",
+          "title": "On Sale Now -> Save 15% on this stay",
+          "desc": "Escape and Save",
+          "terms": "Negotiated Specials may be limited to certain dates and subject to availability.",
+          "valueAddDesc": false,
+          "discountType": "PERCENT",
+          "discountPercentage": 14.89549756,
+          "displayStrikethroughPrice": "192.34",
+          "displayStrikethroughPriceCurrency": "USD",
+          "nativeStrikethroughPrice": "192.34",
+          "nativeStrikethroughPriceCurrency": "USD",
+          "showDiscount": true,
+          "freeNightCumulative": false,
+          "numNightsPerFreeNight": 0,
+          "numFreeNightsGiven": 0
+        }
+      ],
+      "availablePromos": [
+        {
+          "type": "DISCOUNT",
+          "title": "On Sale Now -> Save 15% on this stay",
+          "desc": "Escape and Save",
+          "terms": "Negotiated Specials may be limited to certain dates and subject to availability.",
+          "valueAddDesc": false,
+          "discountType": "PERCENT",
+          "discountPercentage": 14.89549756,
+          "displayStrikethroughPrice": "192.34",
+          "displayStrikethroughPriceCurrency": "USD",
+          "nativeStrikethroughPrice": "192.34",
+          "nativeStrikethroughPriceCurrency": "USD",
+          "showDiscount": true,
+          "freeNightCumulative": false,
+          "numNightsPerFreeNight": 0,
+          "numFreeNightsGiven": 0
+        }
+      ],
+      "ccNotRequiredAvailable": false
+    },
+    "allInclusiveRateProperty": false,
+    "recentlyViewed": false,
+    "dealUnwrapable": false
+  },
+  {
+    "hotelId": "56972",
+    "name": "Hyatt Place Atlanta Norcross / Peachtree Corners",
+    "brandId": "158305",
+    "starRating": 3,
+    "location": {
+      "address": {
+        "addressLine1": "5600 Peachtree Parkway",
+        "cityName": "Norcross",
+        "provinceCode": "GA",
+        "countryName": "United States",
+        "zip": "30092",
+        "phone": "770 416 7655",
+        "isoCountryCode": "US"
+      },
+      "longitude": -84.22258817,
+      "latitude": 33.96689683,
+      "timeZone": "America/New_York",
+      "neighborhoodId": "5554",
+      "neighborhoodName": "Peachtree Corners - Norcross",
+      "cityId": 3000003821,
+      "zoneId": "52075"
+    },
+    "thumbnailUrl": "http://mobileimg.priceline.com/htlimg/56/56972/thumbnail-150-square.jpg",
+    "hotelFeatures": {
+      "hotelAmenityCodes": [
+        "PETALLOW",
+        "SPOOLOUT",
+        "FPRKING",
+        "BUSCNTR",
+        "RESTRNT",
+        "FINTRNT",
+        "FBRKFST",
+        "SPOOL",
+        "FITSPA",
+        "FINTRPUB",
+        "NSMKFAC",
+        "HANDFAC"
+      ]
+    },
+    "overallGuestRating": 8.7,
+    "totalReviewCount": 418,
+    "guestReviewGdsName": "PCLN",
+    "proximity": 25.29473198391792,
+    "chainCode": "HY",
+    "ratesSummary": {
+      "minPrice": "84.61",
+      "minCurrencyCode": "USD",
+      "minCurrencyCodeSymbol": "$",
+      "minStrikePrice": "94.01",
+      "pclnId": "47586BD33EED765FFABFF5D1290D0B141E608F8BE88F86E9",
+      "freeCancelableRateAvail": true,
+      "payWhenYouStayAvailable": false,
+      "minRatePromos": [
+        {
+          "type": "DISCOUNT",
+          "title": "Special Discount 10% off",
+          "desc": "Advance Purchase",
+          "terms": "Negotiated Specials may be limited to certain dates and subject to availability.",
+          "valueAddDesc": false,
+          "discountType": "PERCENT",
+          "discountPercentage": 9.99893628,
+          "displayStrikethroughPrice": "94.01",
+          "displayStrikethroughPriceCurrency": "USD",
+          "nativeStrikethroughPrice": "94.01",
+          "nativeStrikethroughPriceCurrency": "USD",
+          "showDiscount": true,
+          "freeNightCumulative": false,
+          "numNightsPerFreeNight": 0,
+          "numFreeNightsGiven": 0
+        }
+      ],
+      "availablePromos": [
+        {
+          "type": "DISCOUNT",
+          "title": "Special Discount 10% off",
+          "desc": "Advance Purchase",
+          "terms": "Negotiated Specials may be limited to certain dates and subject to availability.",
+          "valueAddDesc": false,
+          "discountType": "PERCENT",
+          "discountPercentage": 9.99893628,
+          "displayStrikethroughPrice": "94.01",
+          "displayStrikethroughPriceCurrency": "USD",
+          "nativeStrikethroughPrice": "94.01",
+          "nativeStrikethroughPriceCurrency": "USD",
+          "showDiscount": true,
+          "freeNightCumulative": false,
+          "numNightsPerFreeNight": 0,
+          "numFreeNightsGiven": 0
+        }
+      ],
+      "ccNotRequiredAvailable": false
+    },
+    "allInclusiveRateProperty": false,
+    "recentlyViewed": false,
+    "dealUnwrapable": false
+  },
+  {
+    "hotelId": "53297",
+    "name": "Hilton Atlanta",
+    "brandId": "10",
+    "starRating": 4,
+    "location": {
+      "address": {
+        "addressLine1": "255 Courtland Street Ne",
+        "cityName": "Atlanta",
+        "provinceCode": "GA",
+        "countryName": "United States",
+        "zip": "30303",
+        "phone": "404-659-2000",
+        "isoCountryCode": "US"
+      },
+      "longitude": -84.38314056,
+      "latitude": 33.76156616,
+      "timeZone": "America/New_York",
+      "neighborhoodId": "5547",
+      "neighborhoodName": "Downtown Atlanta",
+      "cityId": 3000003496,
+      "zoneId": "779"
+    },
+    "thumbnailUrl": "http://mobileimg.priceline.com/htlimg/53/53297/thumbnail-150-square.jpg",
+    "hotelFeatures": {
+      "hotelAmenityCodes": [
+        "PETALLOW",
+        "SPOOLOUT",
+        "BUSCNTR",
+        "SPOOL",
+        "FITSPA",
+        "NSMKFAC"
+      ]
+    },
+    "overallGuestRating": 7.5,
+    "totalReviewCount": 2010,
+    "guestReviewGdsName": "PCLN",
+    "proximity": 8.655304759668462,
+    "chainCode": "HH",
+    "ratesSummary": {
+      "minPrice": "139.00",
+      "minCurrencyCode": "USD",
+      "minCurrencyCodeSymbol": "$",
+      "pclnId": "56BD2D9395F87D205BECF12CC4E446C47A780F5AD70A63BF",
+      "freeCancelableRateAvail": true,
+      "payWhenYouStayAvailable": true,
+      "roomLeft": 5,
+      "ccNotRequiredAvailable": false
+    },
+    "allInclusiveRateProperty": false,
+    "recentlyViewed": false,
+    "dealUnwrapable": false
+  },
+  {
+    "hotelId": "54538",
+    "name": "Hyatt Regency Atlanta",
+    "brandId": "41",
+    "starRating": 4,
+    "location": {
+      "address": {
+        "addressLine1": "265 Peachtree Street",
+        "cityName": "Atlanta",
+        "provinceCode": "GA",
+        "countryName": "United States",
+        "zip": "30303",
+        "phone": "404-577-1234",
+        "isoCountryCode": "US"
+      },
+      "longitude": -84.38671875,
+      "latitude": 33.76152039,
+      "timeZone": "America/New_York",
+      "neighborhoodId": "5547",
+      "neighborhoodName": "Downtown Atlanta",
+      "cityId": 3000003496,
+      "zoneId": "779"
+    },
+    "thumbnailUrl": "http://mobileimg.priceline.com/htlimg/54/54538/thumbnail-150-square.jpg",
+    "hotelFeatures": {
+      "hotelAmenityCodes": [
+        "SPOOLOUT",
+        "BUSCNTR",
+        "FINTRNT",
+        "SPOOL",
+        "FITSPA",
+        "FINTRPUB",
+        "NSMKFAC",
+        "HANDFAC"
+      ]
+    },
+    "overallGuestRating": 8.3,
+    "totalReviewCount": 1257,
+    "guestReviewGdsName": "PCLN",
+    "proximity": 8.600807538957541,
+    "chainCode": "HY",
+    "ratesSummary": {
+      "minPrice": "149.00",
+      "minCurrencyCode": "USD",
+      "minCurrencyCodeSymbol": "$",
+      "pclnId": "6E0E33F6B515E5EA5BECF12CC4E446C445F08EFB53E14CC4",
+      "freeCancelableRateAvail": true,
+      "payWhenYouStayAvailable": true,
+      "minRatePromos": [
+        {
+          "type": "DISCOUNT",
+          "title": "Smart Deal",
+          "terms": "Negotiated Specials may be limited to certain dates and subject to availability.",
+          "valueAddDesc": false,
+          "discountType": "PERCENT",
+          "discountPercentage": 0,
+          "showDiscount": false,
+          "dealType": "SMART",
+          "freeNightCumulative": false,
+          "numNightsPerFreeNight": 0,
+          "numFreeNightsGiven": 0
+        }
+      ],
+      "availablePromos": [
+        {
+          "type": "DISCOUNT",
+          "title": "Smart Deal",
+          "terms": "Negotiated Specials may be limited to certain dates and subject to availability.",
+          "valueAddDesc": false,
+          "discountType": "PERCENT",
+          "discountPercentage": 0,
+          "showDiscount": false,
+          "dealType": "SMART",
+          "freeNightCumulative": false,
+          "numNightsPerFreeNight": 0,
+          "numFreeNightsGiven": 0
+        }
+      ],
+      "ccNotRequiredAvailable": false
+    },
+    "allInclusiveRateProperty": false,
+    "recentlyViewed": false,
+    "dealUnwrapable": false
+  },
+  {
+    "hotelId": "3400304",
+    "name": "Hilton Garden Inn Atlanta East",
+    "brandId": "2303",
+    "starRating": 3,
+    "location": {
+      "address": {
+        "addressLine1": "7890 Mall Ring Road",
+        "cityName": "Lithonia",
+        "provinceCode": "GA",
+        "countryName": "United States",
+        "zip": "30038",
+        "phone": "678 526 1000",
+        "isoCountryCode": "US"
+      },
+      "longitude": -84.09871772,
+      "latitude": 33.70083511,
+      "timeZone": "America/New_York",
+      "neighborhoodId": "5569",
+      "neighborhoodName": "Lithonia",
+      "cityId": 3000003748,
+      "zoneId": "3567"
+    },
+    "thumbnailUrl": "http://mobileimg.priceline.com/htlimg/3400/3400304/thumbnail-150-square.jpg",
+    "hotelFeatures": {
+      "hotelAmenityCodes": [
+        "FPRKING",
+        "BUSCNTR",
+        "SPOOLIN",
+        "FINTRNT",
+        "SPOOL",
+        "FINTRRM",
+        "FITSPA",
+        "NSMKFAC"
+      ]
+    },
+    "overallGuestRating": 8.2,
+    "totalReviewCount": 116,
+    "guestReviewGdsName": "PCLN",
+    "proximity": 19.075046327975137,
+    "chainCode": "GI",
+    "ratesSummary": {
+      "minPrice": "114.00",
+      "minCurrencyCode": "USD",
+      "minCurrencyCodeSymbol": "$",
+      "pclnId": "8A9D10488DB064CEFC70B1A7440DE9CE31E0BB7149CB1A50F717929C41B48FBD",
+      "freeCancelableRateAvail": true,
+      "payWhenYouStayAvailable": true,
+      "availablePromos": [
+        {
+          "type": "DISCOUNT",
+          "title": "Smart Deal",
+          "terms": "Negotiated Specials may be limited to certain dates and subject to availability.",
+          "valueAddDesc": false,
+          "discountType": "PERCENT",
+          "discountPercentage": 0,
+          "showDiscount": false,
+          "dealType": "SMART",
+          "freeNightCumulative": false,
+          "numNightsPerFreeNight": 0,
+          "numFreeNightsGiven": 0
+        }
+      ],
+      "ccNotRequiredAvailable": false
+    },
+    "allInclusiveRateProperty": false,
+    "recentlyViewed": false,
+    "dealUnwrapable": false
+  },
+  {
+    "hotelId": "55209",
+    "name": "La Quinta Inn & Suites Atlanta Alpharetta",
+    "brandId": "67",
+    "starRating": 2.5,
+    "location": {
+      "address": {
+        "addressLine1": "1350 North Point Drive",
+        "cityName": "Alpharetta",
+        "provinceCode": "GA",
+        "countryName": "United States",
+        "zip": "30022",
+        "phone": "770-754-7800",
+        "isoCountryCode": "US"
+      },
+      "longitude": -84.28850546,
+      "latitude": 34.05097403,
+      "timeZone": "America/New_York",
+      "neighborhoodId": "5573",
+      "neighborhoodName": "Alpharetta",
+      "cityId": 3000003483,
+      "zoneId": "51458"
+    },
+    "thumbnailUrl": "http://mobileimg.priceline.com/htlimg/55/55209/thumbnail-150-square.jpg",
+    "hotelFeatures": {
+      "hotelAmenityCodes": [
+        "PETALLOW",
+        "SPOOLOUT",
+        "FPRKING",
+        "BUSCNTR",
+        "FINTRNT",
+        "FBRKFST",
+        "SPOOL",
+        "FINTRRM",
+        "FITSPA",
+        "NSMKFAC",
+        "HANDFAC"
+      ]
+    },
+    "overallGuestRating": 7.1,
+    "totalReviewCount": 123,
+    "guestReviewGdsName": "PCLN",
+    "proximity": 29.374726240293846,
+    "chainCode": "LQ",
+    "ratesSummary": {
+      "minPrice": "80.00",
+      "minCurrencyCode": "USD",
+      "minCurrencyCodeSymbol": "$",
+      "pclnId": "4263C9BF3207FC18DFBDF84FC3212F9F3ACAA9ABCEC1A6EA",
+      "freeCancelableRateAvail": true,
+      "payWhenYouStayAvailable": true,
+      "availablePromos": [
+        {
+          "type": "DISCOUNT",
+          "title": "Smart Deal",
+          "terms": "Negotiated Specials may be limited to certain dates and subject to availability.",
+          "valueAddDesc": false,
+          "discountType": "PERCENT",
+          "discountPercentage": 0,
+          "showDiscount": false,
+          "dealType": "SMART",
+          "freeNightCumulative": false,
+          "numNightsPerFreeNight": 0,
+          "numFreeNightsGiven": 0
+        }
+      ],
+      "ccNotRequiredAvailable": false
+    },
+    "allInclusiveRateProperty": false,
+    "recentlyViewed": false,
+    "dealUnwrapable": false
+  },
+  {
+    "hotelId": "54015",
+    "name": "BEST WESTERN Gwinnett Center",
+    "brandId": "1",
+    "starRating": 2.5,
+    "location": {
+      "address": {
+        "addressLine1": "3670 Shackleford Road",
+        "cityName": "Duluth",
+        "provinceCode": "GA",
+        "countryName": "United States",
+        "zip": "30096",
+        "phone": "770-935-7171",
+        "isoCountryCode": "US"
+      },
+      "longitude": -84.13002916,
+      "latitude": 33.94862495,
+      "timeZone": "America/New_York",
+      "neighborhoodId": "5575",
+      "neighborhoodName": "Gwinnett - Duluth",
+      "cityId": 3000003627,
+      "zoneId": "4192"
+    },
+    "thumbnailUrl": "http://mobileimg.priceline.com/htlimg/54/54015/thumbnail-150-square.jpg",
+    "hotelFeatures": {
+      "hotelAmenityCodes": [
+        "SPOOLOUT",
+        "FPRKING",
+        "BUSCNTR",
+        "FINTRNT",
+        "FBRKFST",
+        "SPOOL",
+        "FINTRRM",
+        "FITSPA",
+        "FINTRPUB",
+        "NSMKFAC",
+        "HANDFAC"
+      ]
+    },
+    "overallGuestRating": 8.3,
+    "totalReviewCount": 76,
+    "guestReviewGdsName": "PCLN",
+    "proximity": 27.10652461893343,
+    "chainCode": "BW",
+    "ratesSummary": {
+      "minPrice": "67.15",
+      "minCurrencyCode": "USD",
+      "minCurrencyCodeSymbol": "$",
+      "minStrikePrice": "79.00",
+      "pclnId": "183C952809FE284258E18318EF711E895E8ACA268C5F7CB2",
+      "freeCancelableRateAvail": true,
+      "payWhenYouStayAvailable": false,
+      "minRatePromos": [
+        {
+          "type": "DISCOUNT",
+          "title": "On Sale Now -> Save 15% on this stay",
+          "desc": "Stay and Save",
+          "terms": "Negotiated Specials may be limited to certain dates and subject to availability.",
+          "valueAddDesc": false,
+          "discountType": "PERCENT",
+          "discountPercentage": 15,
+          "displayStrikethroughPrice": "79.00",
+          "displayStrikethroughPriceCurrency": "USD",
+          "nativeStrikethroughPrice": "79.00",
+          "nativeStrikethroughPriceCurrency": "USD",
+          "showDiscount": true,
+          "freeNightCumulative": false,
+          "numNightsPerFreeNight": 0,
+          "numFreeNightsGiven": 0
+        }
+      ],
+      "availablePromos": [
+        {
+          "type": "DISCOUNT",
+          "title": "On Sale Now -> Save 15% on this stay",
+          "desc": "Stay and Save",
+          "terms": "Negotiated Specials may be limited to certain dates and subject to availability.",
+          "valueAddDesc": false,
+          "discountType": "PERCENT",
+          "discountPercentage": 15,
+          "displayStrikethroughPrice": "79.00",
+          "displayStrikethroughPriceCurrency": "USD",
+          "nativeStrikethroughPrice": "79.00",
+          "nativeStrikethroughPriceCurrency": "USD",
+          "showDiscount": true,
+          "freeNightCumulative": false,
+          "numNightsPerFreeNight": 0,
+          "numFreeNightsGiven": 0
+        }
+      ],
+      "ccNotRequiredAvailable": false
+    },
+    "allInclusiveRateProperty": false,
+    "recentlyViewed": false,
+    "dealUnwrapable": false
+  },
+  {
+    "hotelId": "54616",
+    "name": "Hyatt Place Atlanta Galleria",
+    "brandId": "158305",
+    "starRating": 3,
+    "location": {
+      "address": {
+        "addressLine1": "2876 Spring Hill Parkway",
+        "cityName": "Smyrna",
+        "provinceCode": "GA",
+        "countryName": "United States",
+        "zip": "30080",
+        "phone": "770-384-0060",
+        "isoCountryCode": "US"
+      },
+      "longitude": -84.473631,
+      "latitude": 33.88171,
+      "timeZone": "America/New_York",
+      "neighborhoodId": "5559",
+      "neighborhoodName": "Galleria Area",
+      "cityId": 3000003496,
+      "zoneId": "51424"
+    },
+    "thumbnailUrl": "http://mobileimg.priceline.com/htlimg/54/54616/thumbnail-150-square.jpg",
+    "hotelFeatures": {
+      "hotelAmenityCodes": [
+        "SPOOLOUT",
+        "FPRKING",
+        "SPA",
+        "FBRKFST",
+        "FITSPA",
+        "FINTRPUB",
+        "NSMKFAC",
+        "HANDFAC",
+        "PETALLOW",
+        "BUSCNTR",
+        "RESTRNT",
+        "FINTRNT",
+        "SPOOL",
+        "FINTRRM"
+      ]
+    },
+    "overallGuestRating": 8.8,
+    "totalReviewCount": 376,
+    "guestReviewGdsName": "PCLN",
+    "proximity": 16.913331617870384,
+    "chainCode": "HY",
+    "ratesSummary": {
+      "minPrice": "83.79",
+      "minCurrencyCode": "USD",
+      "minCurrencyCodeSymbol": "$",
+      "minStrikePrice": "90.05",
+      "pclnId": "660BCD961484D04E1AD9F610B08032BA218EC2049E9B3DA3",
+      "freeCancelableRateAvail": true,
+      "payWhenYouStayAvailable": true,
+      "minRatePromos": [
+        {
+          "type": "DISCOUNT",
+          "title": "Special Discount 7% off",
+          "desc": "Advanced Purchase",
+          "terms": "Negotiated Specials may be limited to certain dates and subject to availability.",
+          "valueAddDesc": false,
+          "discountType": "PERCENT",
+          "discountPercentage": 6.9516935,
+          "displayStrikethroughPrice": "90.05",
+          "displayStrikethroughPriceCurrency": "USD",
+          "nativeStrikethroughPrice": "90.05",
+          "nativeStrikethroughPriceCurrency": "USD",
+          "showDiscount": true,
+          "freeNightCumulative": false,
+          "numNightsPerFreeNight": 0,
+          "numFreeNightsGiven": 0
+        }
+      ],
+      "availablePromos": [
+        {
+          "type": "DISCOUNT",
+          "title": "Special Discount 7% off",
+          "desc": "Advanced Purchase",
+          "terms": "Negotiated Specials may be limited to certain dates and subject to availability.",
+          "valueAddDesc": false,
+          "discountType": "PERCENT",
+          "discountPercentage": 6.9516935,
+          "displayStrikethroughPrice": "90.05",
+          "displayStrikethroughPriceCurrency": "USD",
+          "nativeStrikethroughPrice": "90.05",
+          "nativeStrikethroughPriceCurrency": "USD",
+          "showDiscount": true,
+          "freeNightCumulative": false,
+          "numNightsPerFreeNight": 0,
+          "numFreeNightsGiven": 0
+        },
+        {
+          "type": "DISCOUNT",
+          "title": "Smart Deal",
+          "terms": "Negotiated Specials may be limited to certain dates and subject to availability.",
+          "valueAddDesc": false,
+          "discountType": "PERCENT",
+          "discountPercentage": 0,
+          "showDiscount": false,
+          "dealType": "SMART",
+          "freeNightCumulative": false,
+          "numNightsPerFreeNight": 0,
+          "numFreeNightsGiven": 0
+        }
+      ],
+      "ccNotRequiredAvailable": false
+    },
+    "allInclusiveRateProperty": false,
+    "recentlyViewed": false,
+    "dealUnwrapable": false
+  },
+  {
+    "hotelId": "54617",
+    "name": "Hyatt Place Atlanta Airport South",
+    "brandId": "158305",
+    "starRating": 3,
+    "location": {
+      "address": {
+        "addressLine1": "1899 Sullivan Road",
+        "cityName": "College Park",
+        "provinceCode": "GA",
+        "countryName": "United States",
+        "zip": "30337",
+        "phone": "770-994-2997",
+        "isoCountryCode": "US"
+      },
+      "longitude": -84.45252991,
+      "latitude": 33.62707138,
+      "timeZone": "America/New_York",
+      "neighborhoodId": "5557",
+      "neighborhoodName": "Hartsfield Airport (ATL) South",
+      "cityId": 3000098198,
+      "zoneId": "51524"
+    },
+    "thumbnailUrl": "http://mobileimg.priceline.com/htlimg/54/54617/thumbnail-150-square.jpg",
+    "hotelFeatures": {
+      "hotelAmenityCodes": [
+        "SPOOLOUT",
+        "AIRSHUTTL",
+        "FBRKFST",
+        "FITSPA",
+        "FINTRPUB",
+        "NSMKFAC",
+        "HANDFAC",
+        "PETALLOW",
+        "BUSCNTR",
+        "RESTRNT",
+        "FINTRNT",
+        "SPOOL",
+        "FINTRRM"
+      ]
+    },
+    "overallGuestRating": 8.7,
+    "totalReviewCount": 378,
+    "guestReviewGdsName": "PCLN",
+    "proximity": 1.9673434219357733,
+    "chainCode": "HY",
+    "ratesSummary": {
+      "minPrice": "87.43",
+      "minCurrencyCode": "USD",
+      "minCurrencyCodeSymbol": "$",
+      "minStrikePrice": "94.01",
+      "pclnId": "CD38F96CC31C11EF152BE98F002A522B2C6C8976D1A2FCBE",
+      "freeCancelableRateAvail": true,
+      "payWhenYouStayAvailable": true,
+      "minRatePromos": [
+        {
+          "type": "DISCOUNT",
+          "title": "Special Discount 7% off",
+          "desc": "Advance Purchase",
+          "terms": "Negotiated Specials may be limited to certain dates and subject to availability.",
+          "valueAddDesc": false,
+          "discountType": "PERCENT",
+          "discountPercentage": 6.9992554,
+          "displayStrikethroughPrice": "94.01",
+          "displayStrikethroughPriceCurrency": "USD",
+          "nativeStrikethroughPrice": "94.01",
+          "nativeStrikethroughPriceCurrency": "USD",
+          "showDiscount": true,
+          "freeNightCumulative": false,
+          "numNightsPerFreeNight": 0,
+          "numFreeNightsGiven": 0
+        }
+      ],
+      "availablePromos": [
+        {
+          "type": "DISCOUNT",
+          "title": "Special Discount 7% off",
+          "desc": "Advance Purchase",
+          "terms": "Negotiated Specials may be limited to certain dates and subject to availability.",
+          "valueAddDesc": false,
+          "discountType": "PERCENT",
+          "discountPercentage": 6.9992554,
+          "displayStrikethroughPrice": "94.01",
+          "displayStrikethroughPriceCurrency": "USD",
+          "nativeStrikethroughPrice": "94.01",
+          "nativeStrikethroughPriceCurrency": "USD",
+          "showDiscount": true,
+          "freeNightCumulative": false,
+          "numNightsPerFreeNight": 0,
+          "numFreeNightsGiven": 0
+        },
+        {
+          "type": "DISCOUNT",
+          "title": "Smart Deal",
+          "terms": "Negotiated Specials may be limited to certain dates and subject to availability.",
+          "valueAddDesc": false,
+          "discountType": "PERCENT",
+          "discountPercentage": 0,
+          "showDiscount": false,
+          "dealType": "SMART",
+          "freeNightCumulative": false,
+          "numNightsPerFreeNight": 0,
+          "numFreeNightsGiven": 0
+        }
+      ],
+      "ccNotRequiredAvailable": false
+    },
+    "allInclusiveRateProperty": false,
+    "recentlyViewed": false,
+    "dealUnwrapable": false
+  },
+  {
+    "hotelId": "1737003",
+    "name": "Super 8 Decatur/Dntn/Atlanta Area",
+    "brandId": "69304",
+    "starRating": 2,
+    "location": {
+      "address": {
+        "addressLine1": "917 Church Street",
+        "cityName": "Decatur",
+        "provinceCode": "GA",
+        "countryName": "United States",
+        "zip": "30030",
+        "phone": "404-378-3765",
+        "isoCountryCode": "US"
+      },
+      "longitude": -84.29425049,
+      "latitude": 33.78048325,
+      "timeZone": "America/New_York",
+      "neighborhoodId": "5560",
+      "neighborhoodName": "Druid Hills - Emory - Decatur",
+      "cityId": 3000003612,
+      "zoneId": "50792"
+    },
+    "thumbnailUrl": "http://mobileimg.priceline.com/htlimg/1737/1737003/thumbnail-150-square.jpg",
+    "hotelFeatures": {
+      "hotelAmenityCodes": [
+        "FPRKING",
+        "FINTRNT",
+        "FBRKFST",
+        "FINTRRM",
+        "NSMKFAC",
+        "HANDFAC"
+      ]
+    },
+    "overallGuestRating": 6.6,
+    "totalReviewCount": 64,
+    "guestReviewGdsName": "PCLN",
+    "proximity": 12.151498299567152,
+    "chainCode": "OZ",
+    "ratesSummary": {
+      "minPrice": "92.72",
+      "minCurrencyCode": "USD",
+      "minCurrencyCodeSymbol": "$",
+      "minStrikePrice": "109.08",
+      "pclnId": "D6D52703BF8E3A494F11A88B64597C0C09DB1EE99013C80B408E232E179DAC6F",
+      "freeCancelableRateAvail": true,
+      "payWhenYouStayAvailable": false,
+      "minRatePromos": [
+        {
+          "type": "DISCOUNT",
+          "title": "On Sale Now -> Save 15% on this stay",
+          "desc": "Advance Purchase",
+          "terms": "Negotiated Specials may be limited to certain dates and subject to availability.",
+          "valueAddDesc": false,
+          "discountType": "PERCENT",
+          "discountPercentage": 14.99816648,
+          "displayStrikethroughPrice": "109.08",
+          "displayStrikethroughPriceCurrency": "USD",
+          "nativeStrikethroughPrice": "109.08",
+          "nativeStrikethroughPriceCurrency": "USD",
+          "showDiscount": true,
+          "freeNightCumulative": false,
+          "numNightsPerFreeNight": 0,
+          "numFreeNightsGiven": 0
+        }
+      ],
+      "availablePromos": [
+        {
+          "type": "DISCOUNT",
+          "title": "On Sale Now -> Save 15% on this stay",
+          "desc": "Advance Purchase",
+          "terms": "Negotiated Specials may be limited to certain dates and subject to availability.",
+          "valueAddDesc": false,
+          "discountType": "PERCENT",
+          "discountPercentage": 14.99816648,
+          "displayStrikethroughPrice": "109.08",
+          "displayStrikethroughPriceCurrency": "USD",
+          "nativeStrikethroughPrice": "109.08",
+          "nativeStrikethroughPriceCurrency": "USD",
+          "showDiscount": true,
+          "freeNightCumulative": false,
+          "numNightsPerFreeNight": 0,
+          "numFreeNightsGiven": 0
+        }
+      ],
+      "ccNotRequiredAvailable": false
+    },
+    "allInclusiveRateProperty": false,
+    "recentlyViewed": false,
+    "dealUnwrapable": false
+  },
+  {
+    "hotelId": "53333",
+    "name": "Hilton Garden Inn Atlanta North/Alpharetta",
+    "brandId": "2303",
+    "starRating": 3,
+    "location": {
+      "address": {
+        "addressLine1": "4025 Windward Plaza",
+        "cityName": "Alpharetta",
+        "provinceCode": "GA",
+        "countryName": "United States",
+        "zip": "30005",
+        "phone": "770-360-7766",
+        "isoCountryCode": "US"
+      },
+      "longitude": -84.2398757899999,
+      "latitude": 34.09256744,
+      "timeZone": "America/New_York",
+      "neighborhoodId": "5573",
+      "neighborhoodName": "Alpharetta",
+      "cityId": 3000003483,
+      "zoneId": "51458"
+    },
+    "thumbnailUrl": "http://mobileimg.priceline.com/htlimg/53/53333/thumbnail-150-square.jpg",
+    "hotelFeatures": {
+      "hotelAmenityCodes": [
+        "FPRKING",
+        "BUSCNTR",
+        "SPOOLIN",
+        "FINTRNT",
+        "SPOOL",
+        "FINTRRM",
+        "FITSPA",
+        "NSMKFAC"
+      ]
+    },
+    "overallGuestRating": 8.4,
+    "totalReviewCount": 70,
+    "guestReviewGdsName": "PCLN",
+    "proximity": 32.93512608732187,
+    "chainCode": "GI",
+    "ratesSummary": {
+      "minPrice": "69.78",
+      "minCurrencyCode": "USD",
+      "minCurrencyCodeSymbol": "$",
+      "minStrikePrice": "79.00",
+      "pclnId": "4222483FE0D20A26DAD089E4AFE37F4432CB25FB313EA1A9",
+      "freeCancelableRateAvail": true,
+      "payWhenYouStayAvailable": true,
+      "minRatePromos": [
+        {
+          "type": "DISCOUNT",
+          "title": "Special Discount 12% off",
+          "desc": "Advance Purchase",
+          "terms": "Negotiated Specials may be limited to certain dates and subject to availability.",
+          "valueAddDesc": false,
+          "discountType": "PERCENT",
+          "discountPercentage": 11.67088608,
+          "displayStrikethroughPrice": "79.00",
+          "displayStrikethroughPriceCurrency": "USD",
+          "nativeStrikethroughPrice": "79.00",
+          "nativeStrikethroughPriceCurrency": "USD",
+          "showDiscount": true,
+          "freeNightCumulative": false,
+          "numNightsPerFreeNight": 0,
+          "numFreeNightsGiven": 0
+        }
+      ],
+      "availablePromos": [
+        {
+          "type": "DISCOUNT",
+          "title": "Special Discount 12% off",
+          "desc": "Advance Purchase",
+          "terms": "Negotiated Specials may be limited to certain dates and subject to availability.",
+          "valueAddDesc": false,
+          "discountType": "PERCENT",
+          "discountPercentage": 11.67088608,
+          "displayStrikethroughPrice": "79.00",
+          "displayStrikethroughPriceCurrency": "USD",
+          "nativeStrikethroughPrice": "79.00",
+          "nativeStrikethroughPriceCurrency": "USD",
+          "showDiscount": true,
+          "freeNightCumulative": false,
+          "numNightsPerFreeNight": 0,
+          "numFreeNightsGiven": 0
+        },
+        {
+          "type": "DISCOUNT",
+          "title": "Smart Deal",
+          "terms": "Negotiated Specials may be limited to certain dates and subject to availability.",
+          "valueAddDesc": false,
+          "discountType": "PERCENT",
+          "discountPercentage": 0,
+          "showDiscount": false,
+          "dealType": "SMART",
+          "freeNightCumulative": false,
+          "numNightsPerFreeNight": 0,
+          "numFreeNightsGiven": 0
+        }
+      ],
+      "ccNotRequiredAvailable": false
+    },
+    "allInclusiveRateProperty": false,
+    "recentlyViewed": false,
+    "dealUnwrapable": false
+  },
+  {
+    "hotelId": "5234405",
+    "name": "Brick Lodge Atlanta Norcross",
+    "brandId": "0",
+    "starRating": 2,
+    "location": {
+      "address": {
+        "addressLine1": "2050 Willowtrail Pkwy",
+        "cityName": "Norcross",
+        "provinceCode": "GA",
+        "countryName": "United States",
+        "zip": "30093",
+        "phone": "770-564-0492",
+        "isoCountryCode": "US"
+      },
+      "longitude": -84.1754541,
+      "latitude": 33.9256555,
+      "timeZone": "America/New_York",
+      "neighborhoodId": "5554",
+      "neighborhoodName": "Peachtree Corners - Norcross",
+      "cityId": 3000003821,
+      "zoneId": "52075"
+    },
+    "thumbnailUrl": "http://mobileimg.priceline.com/htlimg/5234/5234405/thumbnail-150-square.jpg",
+    "hotelFeatures": {
+      "hotelAmenityCodes": [
+        "SPOOLOUT",
+        "FPRKING",
+        "FINTRNT",
+        "SPOOL",
+        "FINTRRM",
+        "FINTRPUB",
+        "NSMKFAC",
+        "HANDFAC"
+      ]
+    },
+    "overallGuestRating": 7.9,
+    "totalReviewCount": 372,
+    "guestReviewGdsName": "PCLN",
+    "proximity": 24.269426658553726,
+    "chainCode": "IL",
+    "ratesSummary": {
+      "minPrice": "38.99",
+      "minCurrencyCode": "USD",
+      "minCurrencyCodeSymbol": "$",
+      "minStrikePrice": "55.70",
+      "pclnId": "9B7E63CE7E0C12225F18DD1B13646E26A6D60D97B516335E408E232E179DAC6F",
+      "freeCancelableRateAvail": true,
+      "payWhenYouStayAvailable": true,
+      "minRatePromos": [
+        {
+          "type": "DISCOUNT",
+          "title": "Special Discount 30% off",
+          "desc": "Book Now and Save",
+          "terms": "Negotiated Specials may be limited to certain dates and subject to availability.",
+          "valueAddDesc": false,
+          "discountType": "PERCENT",
+          "discountPercentage": 30,
+          "displayStrikethroughPrice": "55.70",
+          "displayStrikethroughPriceCurrency": "USD",
+          "nativeStrikethroughPrice": "55.70",
+          "nativeStrikethroughPriceCurrency": "USD",
+          "showDiscount": true,
+          "freeNightCumulative": false,
+          "numNightsPerFreeNight": 0,
+          "numFreeNightsGiven": 0
+        }
+      ],
+      "availablePromos": [
+        {
+          "type": "DISCOUNT",
+          "title": "Special Discount 30% off",
+          "desc": "Book Now and Save",
+          "terms": "Negotiated Specials may be limited to certain dates and subject to availability.",
+          "valueAddDesc": false,
+          "discountType": "PERCENT",
+          "discountPercentage": 30,
+          "displayStrikethroughPrice": "55.70",
+          "displayStrikethroughPriceCurrency": "USD",
+          "nativeStrikethroughPrice": "55.70",
+          "nativeStrikethroughPriceCurrency": "USD",
+          "showDiscount": true,
+          "freeNightCumulative": false,
+          "numNightsPerFreeNight": 0,
+          "numFreeNightsGiven": 0
+        },
+        {
+          "type": "DISCOUNT",
+          "title": "Smart Deal",
+          "terms": "Negotiated Specials may be limited to certain dates and subject to availability.",
+          "valueAddDesc": false,
+          "discountType": "PERCENT",
+          "discountPercentage": 0,
+          "showDiscount": false,
+          "dealType": "SMART",
+          "freeNightCumulative": false,
+          "numNightsPerFreeNight": 0,
+          "numFreeNightsGiven": 0
+        }
+      ],
+      "ccNotRequiredAvailable": false
+    },
+    "allInclusiveRateProperty": false,
+    "recentlyViewed": false,
+    "dealUnwrapable": false
+  },
+  {
+    "hotelId": "60321",
+    "name": "Doubletree By Hilton Atlanta Downtown",
+    "brandId": "6",
+    "hotelVirtualTourURL": "http://www.vfmii.com/exc/aspquery?command=invoke&ipid=1299140&ids=145062",
+    "starRating": 3.5,
+    "location": {
+      "address": {
+        "addressLine1": "160 Spring Street Northwest",
+        "cityName": "Atlanta",
+        "provinceCode": "GA",
+        "countryName": "United States",
+        "zip": "30303",
+        "phone": "404-688-8600",
+        "isoCountryCode": "US"
+      },
+      "longitude": -84.39009094,
+      "latitude": 33.75933838,
+      "timeZone": "America/New_York",
+      "neighborhoodId": "5547",
+      "neighborhoodName": "Downtown Atlanta",
+      "cityId": 3000003496,
+      "zoneId": "779"
+    },
+    "thumbnailUrl": "http://mobileimg.priceline.com/htlimg/60/60321/thumbnail-150-square.jpg",
+    "hotelFeatures": {
+      "hotelAmenityCodes": [
+        "SPOOLOUT",
+        "BUSCNTR",
+        "SPOOL",
+        "FITSPA"
+      ]
+    },
+    "overallGuestRating": 7.1,
+    "totalReviewCount": 576,
+    "guestReviewGdsName": "PCLN",
+    "proximity": 8.409483764087582,
+    "chainCode": "DT",
+    "ratesSummary": {
+      "minPrice": "119.00",
+      "minCurrencyCode": "USD",
+      "minCurrencyCodeSymbol": "$",
+      "pclnId": "AF9137DCF83A203F5BECF12CC4E446C44FFA01F30756902D",
+      "freeCancelableRateAvail": true,
+      "payWhenYouStayAvailable": true,
+      "ccNotRequiredAvailable": false
+    },
+    "allInclusiveRateProperty": false,
+    "recentlyViewed": false,
+    "dealUnwrapable": false
+  },
+  {
+    "hotelId": "56797",
+    "name": "Wingate By Wyndham Atlanta / Norcross",
+    "brandId": "79",
+    "starRating": 2.5,
+    "location": {
+      "address": {
+        "addressLine1": "5800 Peachtree Industrial Boulevard",
+        "cityName": "Norcross",
+        "provinceCode": "GA",
+        "countryName": "United States",
+        "zip": "30071",
+        "phone": "770-263-2020",
+        "isoCountryCode": "US"
+      },
+      "longitude": -84.22200012,
+      "latitude": 33.95355606,
+      "timeZone": "America/New_York",
+      "neighborhoodId": "5554",
+      "neighborhoodName": "Peachtree Corners - Norcross",
+      "cityId": 3000003821,
+      "zoneId": "52075"
+    },
+    "thumbnailUrl": "http://mobileimg.priceline.com/htlimg/56/56797/thumbnail-150-square.jpg",
+    "hotelFeatures": {
+      "hotelAmenityCodes": [
+        "SPOOLOUT",
+        "BUSCNTR",
+        "FBRKFST",
+        "SPOOL",
+        "FITSPA",
+        "NSMKFAC",
+        "HANDFAC"
+      ]
+    },
+    "overallGuestRating": 8.6,
+    "totalReviewCount": 333,
+    "guestReviewGdsName": "PCLN",
+    "proximity": 24.493133660918012,
+    "chainCode": "WG",
+    "ratesSummary": {
+      "minPrice": "77.09",
+      "minCurrencyCode": "USD",
+      "minCurrencyCodeSymbol": "$",
+      "minStrikePrice": "90.69",
+      "pclnId": "CC3C220A46F32B2B84DC2DFFC2C8B741D82B7A3E141CFFE1",
+      "freeCancelableRateAvail": true,
+      "payWhenYouStayAvailable": true,
+      "minRatePromos": [
+        {
+          "type": "DISCOUNT",
+          "title": "On Sale Now -> Save 15% on this stay",
+          "desc": "Advance Purchase",
+          "terms": "Negotiated Specials may be limited to certain dates and subject to availability.",
+          "valueAddDesc": false,
+          "discountType": "PERCENT",
+          "discountPercentage": 14.9961407,
+          "displayStrikethroughPrice": "90.69",
+          "displayStrikethroughPriceCurrency": "USD",
+          "nativeStrikethroughPrice": "90.69",
+          "nativeStrikethroughPriceCurrency": "USD",
+          "showDiscount": true,
+          "freeNightCumulative": false,
+          "numNightsPerFreeNight": 0,
+          "numFreeNightsGiven": 0
+        }
+      ],
+      "availablePromos": [
+        {
+          "type": "DISCOUNT",
+          "title": "On Sale Now -> Save 15% on this stay",
+          "desc": "Advance Purchase",
+          "terms": "Negotiated Specials may be limited to certain dates and subject to availability.",
+          "valueAddDesc": false,
+          "discountType": "PERCENT",
+          "discountPercentage": 14.9961407,
+          "displayStrikethroughPrice": "90.69",
+          "displayStrikethroughPriceCurrency": "USD",
+          "nativeStrikethroughPrice": "90.69",
+          "nativeStrikethroughPriceCurrency": "USD",
+          "showDiscount": true,
+          "freeNightCumulative": false,
+          "numNightsPerFreeNight": 0,
+          "numFreeNightsGiven": 0
+        },
+        {
+          "type": "DISCOUNT",
+          "title": "Smart Deal",
+          "terms": "Negotiated Specials may be limited to certain dates and subject to availability.",
+          "valueAddDesc": false,
+          "discountType": "PERCENT",
+          "discountPercentage": 0,
+          "showDiscount": false,
+          "dealType": "SMART",
+          "freeNightCumulative": false,
+          "numNightsPerFreeNight": 0,
+          "numFreeNightsGiven": 0
+        }
+      ],
+      "ccNotRequiredAvailable": false
+    },
+    "allInclusiveRateProperty": false,
+    "recentlyViewed": false,
+    "dealUnwrapable": false
+  },
+  {
+    "hotelId": "17776504",
+    "name": "Hilton Garden Inn Atlanta West/Lithia Springs",
+    "brandId": "2303",
+    "starRating": 3,
+    "location": {
+      "address": {
+        "addressLine1": "110 Interstate West Parkway",
+        "cityName": "Lithia Springs",
+        "provinceCode": "GA",
+        "countryName": "United States",
+        "zip": "30122",
+        "phone": "770-949-8980",
+        "isoCountryCode": "US"
+      },
+      "longitude": -84.59949151,
+      "latitude": 33.76940578,
+      "timeZone": "America/New_York",
+      "neighborhoodId": "5551",
+      "neighborhoodName": "Six Flags - Austell - Mableton",
+      "cityId": 3000003747,
+      "zoneId": "50241"
+    },
+    "thumbnailUrl": "http://mobileimg.priceline.com/htlimg/17776/17776504/thumbnail-150-square.jpg",
+    "hotelFeatures": {
+      "hotelAmenityCodes": [
+        "SPOOLOUT",
+        "FPRKING",
+        "BUSCNTR",
+        "SPOOLIN",
+        "FINTRNT",
+        "SPOOL",
+        "FINTRRM",
+        "FITSPA",
+        "NSMKFAC"
+      ]
+    },
+    "overallGuestRating": 8.2,
+    "totalReviewCount": 32,
+    "guestReviewGdsName": "PCLN",
+    "proximity": 13.516072124065902,
+    "chainCode": "GI",
+    "ratesSummary": {
+      "minPrice": "139.00",
+      "minCurrencyCode": "USD",
+      "minCurrencyCodeSymbol": "$",
+      "pclnId": "B1AD592E5E14864EDD34DA972741A80AE571053604C1BB56E6941F2B7D0E77CE",
+      "freeCancelableRateAvail": true,
+      "payWhenYouStayAvailable": true,
+      "availablePromos": [
+        {
+          "type": "DISCOUNT",
+          "title": "Smart Deal",
+          "terms": "Negotiated Specials may be limited to certain dates and subject to availability.",
+          "valueAddDesc": false,
+          "discountType": "PERCENT",
+          "discountPercentage": 0,
+          "showDiscount": false,
+          "dealType": "SMART",
+          "freeNightCumulative": false,
+          "numNightsPerFreeNight": 0,
+          "numFreeNightsGiven": 0
+        }
+      ],
+      "ccNotRequiredAvailable": false
+    },
+    "allInclusiveRateProperty": false,
+    "recentlyViewed": false,
+    "dealUnwrapable": false
+  },
+  {
+    "hotelId": "727702",
+    "name": "Ramada Limited Alpharetta",
+    "brandId": "20",
+    "starRating": 1,
+    "location": {
+      "address": {
+        "addressLine1": "3020 Mansell Road",
+        "cityName": "Alpharetta",
+        "provinceCode": "GA",
+        "countryName": "United States",
+        "zip": "30022",
+        "phone": "678-461-7300",
+        "isoCountryCode": "US"
+      },
+      "longitude": -84.2963562,
+      "latitude": 34.03843307,
+      "timeZone": "America/New_York",
+      "neighborhoodId": "5574",
+      "neighborhoodName": "Alpharetta South - Roswell",
+      "cityId": 3000003483,
+      "zoneId": "51457"
+    },
+    "thumbnailUrl": "http://mobileimg.priceline.com/htlimg/727/727702/thumbnail-150-square.jpg",
+    "hotelFeatures": {
+      "hotelAmenityCodes": [
+        "BUSCNTR",
+        "FINTRNT",
+        "FBRKFST",
+        "SPOOL",
+        "FINTRRM",
+        "NSMKFAC",
+        "HANDFAC"
+      ]
+    },
+    "overallGuestRating": 5,
+    "totalReviewCount": 43,
+    "guestReviewGdsName": "PCLN",
+    "proximity": 28.421428632484268,
+    "chainCode": "RA",
+    "ratesSummary": {
+      "minPrice": "69.49",
+      "minCurrencyCode": "USD",
+      "minCurrencyCodeSymbol": "$",
+      "minStrikePrice": "81.23",
+      "pclnId": "E8D9EED3F7F6FCE0CD95D3C97F6FFAEF9B8B7A453A9FB3E8",
+      "freeCancelableRateAvail": true,
+      "payWhenYouStayAvailable": true,
+      "minRatePromos": [
+        {
+          "type": "DISCOUNT",
+          "title": "On Sale Now -> Save 14% on this stay",
+          "desc": "Advance Purchase",
+          "terms": "Negotiated Specials may be limited to certain dates and subject to availability.",
+          "valueAddDesc": false,
+          "discountType": "PERCENT",
+          "discountPercentage": 14.45278838,
+          "displayStrikethroughPrice": "81.23",
+          "displayStrikethroughPriceCurrency": "USD",
+          "nativeStrikethroughPrice": "81.23",
+          "nativeStrikethroughPriceCurrency": "USD",
+          "showDiscount": true,
+          "freeNightCumulative": false,
+          "numNightsPerFreeNight": 0,
+          "numFreeNightsGiven": 0
+        }
+      ],
+      "availablePromos": [
+        {
+          "type": "DISCOUNT",
+          "title": "On Sale Now -> Save 14% on this stay",
+          "desc": "Advance Purchase",
+          "terms": "Negotiated Specials may be limited to certain dates and subject to availability.",
+          "valueAddDesc": false,
+          "discountType": "PERCENT",
+          "discountPercentage": 14.45278838,
+          "displayStrikethroughPrice": "81.23",
+          "displayStrikethroughPriceCurrency": "USD",
+          "nativeStrikethroughPrice": "81.23",
+          "nativeStrikethroughPriceCurrency": "USD",
+          "showDiscount": true,
+          "freeNightCumulative": false,
+          "numNightsPerFreeNight": 0,
+          "numFreeNightsGiven": 0
+        }
+      ],
+      "ccNotRequiredAvailable": false
+    },
+    "allInclusiveRateProperty": false,
+    "recentlyViewed": false,
+    "dealUnwrapable": false
+  },
+  {
+    "hotelId": "10450404",
+    "name": "Comfort Suites Morrow",
+    "brandId": "4",
+    "starRating": 2.5,
+    "location": {
+      "address": {
+        "addressLine1": "1444 Southlake Plaza Drive",
+        "cityName": "Morrow",
+        "provinceCode": "GA",
+        "countryName": "United States",
+        "zip": "30260",
+        "phone": "678-674-1300",
+        "isoCountryCode": "US"
+      },
+      "longitude": -84.34307861,
+      "latitude": 33.57952499,
+      "timeZone": "America/New_York",
+      "neighborhoodId": "5562",
+      "neighborhoodName": "Morrow",
+      "cityId": 3000003804,
+      "zoneId": "50314"
+    },
+    "thumbnailUrl": "http://mobileimg.priceline.com/htlimg/10450/10450404/thumbnail-150-square.jpg",
+    "hotelFeatures": {
+      "hotelAmenityCodes": [
+        "FPRKING",
+        "BUSCNTR",
+        "SPOOLIN",
+        "FINTRNT",
+        "FBRKFST",
+        "SPOOL",
+        "FINTRRM",
+        "FITSPA",
+        "FINTRPUB",
+        "NSMKFAC",
+        "HANDFAC"
+      ]
+    },
+    "overallGuestRating": 8.4,
+    "totalReviewCount": 26,
+    "guestReviewGdsName": "PCLN",
+    "proximity": 6.2210198956810565,
+    "chainCode": "CZ",
+    "ratesSummary": {
+      "minPrice": "103.98",
+      "minCurrencyCode": "USD",
+      "minCurrencyCodeSymbol": "$",
+      "pclnId": "AF88637357B51765200BF221B6B8B7069182BE55F084743EC5F095D09F9CA2FB",
+      "freeCancelableRateAvail": true,
+      "payWhenYouStayAvailable": true,
+      "roomLeft": 5,
+      "ccNotRequiredAvailable": false
+    },
+    "allInclusiveRateProperty": false,
+    "recentlyViewed": false,
+    "dealUnwrapable": false
+  },
+  {
+    "hotelId": "55930",
+    "name": "Residence Inn By Marriott Atlanta Buckhead/Lenox Park",
+    "brandId": "22",
+    "starRating": 3,
+    "location": {
+      "address": {
+        "addressLine1": "2220 Lake Blvd",
+        "cityName": "Atlanta",
+        "provinceCode": "GA",
+        "countryName": "United States",
+        "zip": "30319",
+        "phone": "404-467-1660",
+        "isoCountryCode": "US"
+      },
+      "longitude": -84.3473587,
+      "latitude": 33.84915924,
+      "timeZone": "America/New_York",
+      "neighborhoodId": "5571",
+      "neighborhoodName": "Buckhead Area",
+      "cityId": 3000003496,
+      "zoneId": "98"
+    },
+    "thumbnailUrl": "http://mobileimg.priceline.com/htlimg/55/55930/thumbnail-150-square.jpg",
+    "hotelFeatures": {
+      "hotelAmenityCodes": [
+        "PETALLOW",
+        "SPOOLOUT",
+        "FPRKING",
+        "BUSCNTR",
+        "FINTRNT",
+        "FBRKFST",
+        "SPOOL",
+        "FINTRRM",
+        "FINTRPUB",
+        "NSMKFAC",
+        "HANDFAC"
+      ]
+    },
+    "overallGuestRating": 8.1,
+    "totalReviewCount": 256,
+    "guestReviewGdsName": "PCLN",
+    "proximity": 15.039331560796716,
+    "chainCode": "RC",
+    "ratesSummary": {
+      "minPrice": "116.00",
+      "minCurrencyCode": "USD",
+      "minCurrencyCodeSymbol": "$",
+      "minStrikePrice": "159.00",
+      "pclnId": "17EF7DED5ED45AA33DFAF764F9194ED745DFC1FCC6000C72",
+      "freeCancelableRateAvail": true,
+      "payWhenYouStayAvailable": true,
+      "minRatePromos": [
+        {
+          "type": "DISCOUNT",
+          "title": "Special Discount 27% off",
+          "desc": "Advance Purchase",
+          "terms": "Negotiated Specials may be limited to certain dates and subject to availability.",
+          "valueAddDesc": false,
+          "discountType": "PERCENT",
+          "discountPercentage": 27.04402516,
+          "displayStrikethroughPrice": "159.00",
+          "displayStrikethroughPriceCurrency": "USD",
+          "nativeStrikethroughPrice": "159.00",
+          "nativeStrikethroughPriceCurrency": "USD",
+          "showDiscount": true,
+          "freeNightCumulative": false,
+          "numNightsPerFreeNight": 0,
+          "numFreeNightsGiven": 0
+        }
+      ],
+      "availablePromos": [
+        {
+          "type": "DISCOUNT",
+          "title": "Special Discount 27% off",
+          "desc": "Advance Purchase",
+          "terms": "Negotiated Specials may be limited to certain dates and subject to availability.",
+          "valueAddDesc": false,
+          "discountType": "PERCENT",
+          "discountPercentage": 27.04402516,
+          "displayStrikethroughPrice": "159.00",
+          "displayStrikethroughPriceCurrency": "USD",
+          "nativeStrikethroughPrice": "159.00",
+          "nativeStrikethroughPriceCurrency": "USD",
+          "showDiscount": true,
+          "freeNightCumulative": false,
+          "numNightsPerFreeNight": 0,
+          "numFreeNightsGiven": 0
+        },
+        {
+          "type": "DISCOUNT",
+          "title": "Smart Deal",
+          "terms": "Negotiated Specials may be limited to certain dates and subject to availability.",
+          "valueAddDesc": false,
+          "discountType": "PERCENT",
+          "discountPercentage": 0,
+          "showDiscount": false,
+          "dealType": "SMART",
+          "freeNightCumulative": false,
+          "numNightsPerFreeNight": 0,
+          "numFreeNightsGiven": 0
+        }
+      ],
+      "roomLeft": 5,
+      "ccNotRequiredAvailable": false
+    },
+    "allInclusiveRateProperty": false,
+    "recentlyViewed": false,
+    "dealUnwrapable": false
+  },
+  {
+    "hotelId": "54539",
+    "name": "Hyatt Regency Suites Atlanta Northwest",
+    "brandId": "41",
+    "starRating": 3.5,
+    "location": {
+      "address": {
+        "addressLine1": "2999 Windy Hill Road",
+        "cityName": "Marietta",
+        "provinceCode": "GA",
+        "countryName": "United States",
+        "zip": "30067",
+        "phone": "770-956-1234",
+        "isoCountryCode": "US"
+      },
+      "longitude": -84.46633148,
+      "latitude": 33.90597534,
+      "timeZone": "America/New_York",
+      "neighborhoodId": "5559",
+      "neighborhoodName": "Galleria Area",
+      "cityId": 3000003769,
+      "zoneId": "51424"
+    },
+    "thumbnailUrl": "http://mobileimg.priceline.com/htlimg/54/54539/thumbnail-150-square.jpg",
+    "hotelFeatures": {
+      "hotelAmenityCodes": [
+        "PETALLOW",
+        "SPOOLOUT",
+        "FPRKING",
+        "BUSCNTR",
+        "RESTRNT",
+        "FINTRNT",
+        "SPOOL",
+        "FITSPA",
+        "FINTRPUB",
+        "NSMKFAC",
+        "HANDFAC"
+      ]
+    },
+    "overallGuestRating": 8.8,
+    "totalReviewCount": 301,
+    "guestReviewGdsName": "PCLN",
+    "proximity": 18.5048941577353,
+    "chainCode": "HY",
+    "ratesSummary": {
+      "minPrice": "98.10",
+      "minCurrencyCode": "USD",
+      "minCurrencyCodeSymbol": "$",
+      "minStrikePrice": "108.10",
+      "pclnId": "94202C60B9A1BDA5CE6C923ED9CDD33C1C147CE300470B43",
+      "freeCancelableRateAvail": true,
+      "payWhenYouStayAvailable": true,
+      "minRatePromos": [
+        {
+          "type": "DISCOUNT",
+          "title": "Special Discount 9% off",
+          "desc": "Advance Purchase",
+          "terms": "Negotiated Specials may be limited to certain dates and subject to availability.",
+          "valueAddDesc": false,
+          "discountType": "PERCENT",
+          "discountPercentage": 9.2506938,
+          "displayStrikethroughPrice": "108.10",
+          "displayStrikethroughPriceCurrency": "USD",
+          "nativeStrikethroughPrice": "108.10",
+          "nativeStrikethroughPriceCurrency": "USD",
+          "showDiscount": true,
+          "freeNightCumulative": false,
+          "numNightsPerFreeNight": 0,
+          "numFreeNightsGiven": 0
+        }
+      ],
+      "availablePromos": [
+        {
+          "type": "DISCOUNT",
+          "title": "Special Discount 9% off",
+          "desc": "Advance Purchase",
+          "terms": "Negotiated Specials may be limited to certain dates and subject to availability.",
+          "valueAddDesc": false,
+          "discountType": "PERCENT",
+          "discountPercentage": 9.2506938,
+          "displayStrikethroughPrice": "108.10",
+          "displayStrikethroughPriceCurrency": "USD",
+          "nativeStrikethroughPrice": "108.10",
+          "nativeStrikethroughPriceCurrency": "USD",
+          "showDiscount": true,
+          "freeNightCumulative": false,
+          "numNightsPerFreeNight": 0,
+          "numFreeNightsGiven": 0
+        }
+      ],
+      "ccNotRequiredAvailable": false
+    },
+    "allInclusiveRateProperty": false,
+    "recentlyViewed": false,
+    "dealUnwrapable": false
+  }
+]

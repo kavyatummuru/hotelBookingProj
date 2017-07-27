@@ -1,0 +1,175 @@
+﻿<!DOCTYPE html>
+<!--
+KAVYA TUMMURU
+tummuruk@mail.sacredheart.edu
+-->
+<html>
+<head>
+    <body style="background-color:pink;">
+    <h1 align="center">THE HOTEL MANAGEMENT</h1>
+    <title> hotels</title>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.0/jquery.min.js"></script>
+    <link rel="stylesheet" href="https://ajax.googleapis.com/ajax/libs/jqueryui/1.11.4/themes/smoothness/jquery-ui.css">
+    <script src="https://ajax.googleapis.com/ajax/libs/jqueryui/1.11.4/jquery-ui.min.js"></script>
+    <script>
+        var index = 0;
+        var hotels = [];
+        var running = true;
+        $(document).ready(function () {
+            $("#checkindate").datepicker();
+            $("#checkoutdate").datepicker();
+            $("#search").on('click', function () {
+				GetData();
+            });
+            $("#rate").slider({
+                range: true,
+                min: 0,
+                max: 500,
+                values: [0, 500],
+                slide: function (event, ui) {
+                    $("#price").text("$" + ui.values[0] + " - $" + ui.values[1]);
+                }
+            });
+            $("#price").text("$" + $("#rate").slider("values", 0) + " - $" + $("#rate").slider("values", 1));
+            GetData();
+            run();
+        });
+        function run() {
+            if (running) {
+                var i = Math.floor(Math.random() * hotels.length);
+                var delayTime = 3000;
+                if (hotels.length > 0) {
+                    $('#picture').fadeOut(500, function () {
+                        $('#picture').attr('src', hotels[i].thumbnailUrl).fadeIn(500);
+                        $("#hotelName").text(hotels[i].name);
+                        $("#addressLine1").text("Address: " + hotels[i].location.address.addressLine1 + ",");
+                        $("#cityName").text(hotels[i].location.address.cityName + ",");
+                        $("#provinceCode").text(hotels[i].location.address.provinceCode);
+                        $("#zip").text(" " + hotels[i].location.address.zip + ",");
+                        $("#countryName").text(hotels[i].location.address.countryName);
+                        $("#isoCountryCode").text("(" + hotels[i].location.address.isoCountryCode + ")");
+                        $("#phone").text("Phone: " + hotels[i].location.address.phone);
+                        $("#hotelRating").text("Star Rating: " + hotels[i].starRating);
+                        $("#guestRating").text("Guest Rating: " + hotels[i].overallGuestRating);
+
+                    });
+                }
+                else {
+                    $('#picture').fadeOut(500, function () {
+                        $('#picture').attr('src', '');
+                        $("#hotelName").text('');
+                        $("#addressLine1").text('');
+                        $("#cityName").text('');
+                        $("#provinceCode").text('');
+                        $("#zip").text('');
+                        $("#countryName").text('');
+                        $("#isoCountryCode").text('');
+                        $("#phone").text('');
+                        $("#hotelRating").text('');
+                        $("#guestRating").text('');
+                    });
+                }
+                setTimeout(run, delayTime);
+            }
+        }
+
+        function GetData()
+        {
+			var urlBase = 'api/data.json';
+			var destination = $("#destid").val();
+			var minRange = parseFloat($("#rate").slider("values", 0));
+			var maxRange = parseFloat($("#rate").slider("values", 1));
+			$.getJSON(urlBase, function (data) {
+				hotels = [];
+				for (var i = 0; i < data.length; i++) {
+					if (data[i].location.address.cityName.toLowerCase().includes(destination.toLowerCase()) && parseFloat(data[i].ratesSummary.minPrice) >= minRange
+						&& parseFloat(data[i].ratesSummary.minPrice) <= maxRange) {
+						hotels.push(data[i]);
+					}
+				}
+			});
+        }
+
+        function imageMouseOver() {
+            running = false;
+        }
+
+        function imageMouseOut() {
+            running = true;
+            run();
+        }
+
+    </script>
+</head>
+<body>
+    <div>
+        <table align="center">
+            <tr>
+                <td>
+                    <label for="destid">Destination:</label>
+                </td>
+                <td>
+                    <input id="destid" type="text" runat="server" />
+                </td>
+            </tr>
+            <tr>
+                <td>
+                    <label for="checkindate">CheckIn:</label>
+                </td>
+                <td>
+                    <input id="checkindate" type="text" runat="server" />
+                </td>
+            </tr>
+            <tr>
+                <td>
+                    <label for="checkoutdate">CheckOut:</label>
+                </td>
+                <td>
+                    <input id="checkoutdate" type="text" runat="server" />
+                </td>
+            </tr>
+            <tr>
+                <td>
+                    <label for="rate">Rate:</label>
+                </td>
+                <td>
+                    <div id="rate" />
+                </td>
+            <tr>
+            <tr>
+                <td></td>
+                <td>
+                    <label for="price">Price range:</label><label id="price"></label>
+                </td>
+            <tr>
+            <tr>
+                <td colspan="2" align="center">
+                    <input id="search" type="submit" value="Search" />
+                </td>
+            <tr>
+        </table>
+    </div>
+    <div align="center">
+        <table style="border:none; width:350px; height:250px">
+            <tr>
+                <td>
+                    <label id="hotelName" style="font-weight:bold; font-size:large;"></label><br /><br />
+                    <img id="picture" style="border:none; width:350px; height:250px" onmouseover="imageMouseOver();" onmouseout="imageMouseOut();" />
+                </td>
+            </tr>
+            <tr style="vertical-align:top">
+                <td>
+                    <label id="addressLine1"></label><label id="cityName"></label><br />
+                    
+                    <label id="provinceCode"></label><label id="zip"></label><label id="countryName"></label><label id="isoCountryCode"></label><br />
+                    <label id="phone"></label><br /><br />
+                    <label id="hotelRating"></label><br /><br />
+                    <label id="guestRating"></label><br />
+                </td>
+            </tr>
+        </table>
+    </div>
+</body>
+</html>
